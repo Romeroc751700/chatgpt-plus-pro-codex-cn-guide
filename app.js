@@ -45,7 +45,7 @@
     }
   };
 
-  const PAGES_BASE = "https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide";
+  const PAGES_BASE = "https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide";
 
   const RESULTS = {
     keep: {
