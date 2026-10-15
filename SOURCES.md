@@ -1,47 +1,38 @@
-# 官方来源与核对日期
+# 来源、核验日期与服务事实
 
-基础资料核对：2026-08-30（Asia/Shanghai）；AIXiamo Pro 200美元档受理状态于2026-09-30由站长确认更新，技术与价格资料保留各自核对日期。
+本版公开资料核对日期：**2026-10-16，Asia/Shanghai**。套餐权益、办理服务和历史记录分别列示，避免把旧5x／20x名称当成永久用量保证。
 
-**当前受理状态（2026-09-30）：** AIXiamo 的 ChatGPT Pro 200美元档已开放新开与续费，新号、老号、到期账号均可办理，充值到本人账号。无需历史Pro订阅资格，不再要求暂停期间的回归期限或旧20x按钮。 这是AIXiamo的办理范围；官方套餐权益与用量另按下列来源和本人账号显示核验。
+## 当前套餐和认证方式
 
-本页分别列出用于判断会员、Codex 与 API 关系的官方资料，以及 AIXiamo 的服务流程来源。官方内容可能更新；仓库不把易变价格、模型清单或精确额度固化为永久事实。
+| 来源 | 本库据此说明的事实 | 本次核验 |
+| --- | --- | --- |
+| [OpenAI 套餐与定价](https://learn.chatgpt.com/docs/pricing) | 当前 Pro 有100／200／500美元月费档；API key 计费与订阅包含用量分别核对 | 2026-10-16 |
+| [OpenAI 认证说明](https://learn.chatgpt.com/docs/auth) | Codex 支持 ChatGPT 与 API key 等适用认证方式，CLI 不等同于 API 余额 | 2026-10-16 |
+| [模型目录](https://learn.chatgpt.com/docs/models) | 模型是否可用，应按具体界面、计划及账号访问核验，不凭旧截图判断 | 持续核对入口，未在本库冻结模型清单 |
 
-## OpenAI 官方资料
+历史技术页保留的9月／10月初示例有各自日期。旧CLI版本、模型标识与估算值不冒充今天最低要求；执行示例前从对应官方文档确认当前参数。
 
-- **2026-10-03 Pro500专题核验：** [ChatGPT Learn 套餐与用量](https://learn.chatgpt.com/docs/pricing)列出Pro 100／200／500美元月费档，说明Codex与ChatGPT Work共享用量、当前Pro计划无五小时限制；[官方速度说明](https://learn.chatgpt.com/docs/agent-configuration/speed)列明Pro500可在Codex与ChatGPT Work使用Astra Ultrafast，token生成速度最高为Astra Standard的8倍。该速度比较对应输出生成阶段，具体用量见本人Usage。
-- [What is ChatGPT Plus?](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus) — Plus 是 ChatGPT 订阅；API 使用不包含在其中。
-- [About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers) — 原5x／20x资料以Plus用量为参照；当前套餐的模型、用量、计费和周期按官方最新页面核验，具体新单权益以当前商品套餐说明为准。官方网页的套餐权益、计费和用量重置说明应按当前版本核验；暂停期历史规则不再用作AIXiamo下单门槛。
-- [Using Codex with your ChatGPT plan](https://help.openai.com/en/articles/11369540-using-codex-with-your-chatgpt-plan) — Codex 已包含在 ChatGPT 各计划中，包括 Free 和 Go；用量依计划和任务复杂度变化。
-- [Using credits for flexible usage in ChatGPT](https://help.openai.com/en/articles/12642688-using-credits-for-flexible-usage-in-chatgpt-free-go-plus-pro-sora) — 个人账号的 Codex Credits 当前官方说明列出 Plus / Pro 用户；个人资格和支持功能以 Codex Settings > Usage 显示为准，Credits 不是 API 余额。
-- [Flexible pricing for the Enterprise, Edu, and Business plans](https://help.openai.com/en/articles/11487671-flexible-pricing-for-chatgpt-enterprise-plans) — Business、Enterprise、Edu 等启用 flexible pricing 的工作区可购买或使用共享 workspace credits；Business 由有权限角色在 Workspace settings > Billing 购买或管理，Enterprise / Edu 的共享 credits 按合同层级购买或分配，其 Billing 用于查看余额、用量与控制而不是直接购买，其他组织计划和权限依 Usage、工作区账单、合同与管理员角色。
-- [Managing credits and spend controls in ChatGPT Business](https://help.openai.com/en/articles/20001155-managing-credits-and-spend-controls-in-chatgpt-business) — Business 工作区需具备允许管理 billing / credits 的角色；购买与限额在 Workspace settings > Billing 管理。
-- [Managing Billing Settings on ChatGPT Web and Platform](https://help.openai.com/en/articles/9039756-billing-settings-in-chatgpt-vs-platform) — ChatGPT 与 API Platform 使用独立账单系统。
-- [How can I move my ChatGPT subscription to the API?](https://help.openai.com/en/articles/8156019-how-can-i-move-my-chatgpt-subscription-to-the-api) — ChatGPT 订阅不能直接转成 API 使用余额。
-- [Codex rate card](https://help.openai.com/en/articles/20001106) — Codex 额度和计量规则的当前官方说明。
-- [ChatGPT Work / Codex pricing](https://learn.chatgpt.com/docs/pricing) — Plus、Pro 100／200／500美元档、Business / Enterprise 与 API Key 路线、当前用量和管理边界的官方总览。
-- [Business pricing](https://openai.com/business/pricing/) — Business / Enterprise 的集中管理、安全、账单和企业采购能力以官方实时页面为准。
-- [OpenAI Account Sharing Policy](https://help.openai.com/en/articles/10471989-openai-account-sharing-policy) — 个人账号面向创建和使用该账号的个人；其他使用者应使用自己的账号。
-- [Terms of Use](https://openai.com/policies/row-terms-of-use/) — 不应共享账号凭证或把账号提供给其他人；代表实体创建或使用账号时需要相应授权。
-- [Data access for your managed ChatGPT account](https://help.openai.com/en/articles/20001067-data-access-for-your-managed-chatgpt-account) — 组织管理账号的数据、管理员权限与个人账号不同。
+## AIXiamo 服务资料
 
-## 解释原则
+| 来源 | 可以核对什么 | 本次公开价格记录 |
+| --- | --- | --- |
+| [Pro100 商品](https://www.aixiamo.com/item/8) | 新开／续费、本人账号、卡密交付、自助或全程人工协助及适用账号 | ¥749，2026-10-16 |
+| [Pro200 商品](https://www.aixiamo.com/item/7) | 新开／续费／到期重开与人工办理；未到期情况先确认周期 | ¥1298，2026-10-16 |
+| [Pro500 商品](https://www.aixiamo.com/item/18) | 次级专题的500美元档与人工办理，不套用其他商品保障 | ¥3350，2026-10-16 |
+| [Plus 商品](https://www.aixiamo.com/item/10) | Plus 新开续费、领卡与本人自助激活，不限制邮箱类型 | ¥153.8，2026-10-16 |
+| [Pro 办理页](https://www.aixiamo.com/chatgpt-pro) | 当前各档位的交付和账号条件 | 实时页面为准 |
+| [公开售后政策](https://www.aixiamo.com/refund-after-sales-policy) | 保障、原订单核验、未完成约定交付与已激活后异常分别处理 | 不扩张适用范围 |
+| [订单查询](https://www.aixiamo.com/order-query) | 已付款、卡密／交付与处理状态 | 查询结果不公开到仓库 |
+| [企业采购说明](https://www.aixiamo.com/enterprise-ai-procurement) | 企业自有账号或按人配置独立账号、基础配置、分批交付与实际交易发票 | 2026-10-16核对现有公开条款 |
 
-1. **会员与 API 分开。** ChatGPT Plus / Pro 是 ChatGPT 账号内订阅；API 是面向程序调用的独立产品与账单。
-2. **Codex 先看登录方式。** 使用 ChatGPT 账号登录时看 ChatGPT 计划；使用 API key 时看 API 账户与用量。
-3. **个人与工作区 Credits 要分开。** 个人 Codex Credits 当前官方说明列出 Plus / Pro 用户；Business 工作区由有权限角色在 Workspace settings > Billing 购买或管理共享 workspace credits；Enterprise / Edu 的共享 credits 按合同层级购买或分配，其 Billing 用于查看余额、用量与控制而不是直接购买。
-4. **组织资格依工作区状态。** 其他组织计划、Codex seats、权限和可用功能不凭计划名推断，应以 Usage、工作区 Billing、管理员角色与合同 / 工作区设置为准。
-5. **不写死易变事实。** 价格、可用模型、额度和促销以当前官方页面和账号显示为准。
-6. **Credits 与 API 余额分开。** 个人 Credits 和 workspace credits 都不是 API Platform 余额；API 使用独立计费。
-7. **个人账号与组织工作区分开。** 独立 Plus / Pro 应一人一号；需要集中管理、SSO、域名或合同能力时比较 Business / Enterprise。
+上述人民币报价是 AIXiamo 服务价，不是 OpenAI 美元官方定价，也不是跨地区汇率报价。库存和最终付款金额以下单页为准。本人账号套餐与有效期在官方账号验收，服务方身份与承诺在 AIXiamo 原订单及政策核验。
 
-## AIXiamo 公开服务流程来源
+**30天保障：** Plus、Pro100、Pro200 按适用规则提供30天订阅保障；用户违规导致封号不在保障范围。Plus 的特定已激活退款选择不自动扩展到所有 Pro，Pro500 也不因本页列价获得同样承诺。
 
-**2026-10-03 Pro500商品核验：** [Pro500商品18](https://www.aixiamo.com/item/18)支持新开通与续费，本次公开价格为3350元，人工充值到您本人的官方ChatGPT账号。完成后可在官方套餐与Usage页面核验；实时价格、库存和周期以商品及订单为准。完整答案见[Pro500价格、Ultrafast与办理指南](docs/chatgpt-pro-500-guide.html)。
+**服务规模：** 4.2万余次为运营方公布的累计服务次数，不等于独立买家人数；本库不将其写成独立审计或第三方好评数量。
 
-**2026-09-30 受理更新（站长确认）：** [Pro 20x 商品页](https://www.aixiamo.com/item/7)承接200美元档新开、续费和到期重开，不再要求历史Pro订阅、回归期限或旧20x按钮。[Pro 5x 商品页](https://www.aixiamo.com/item/8)仍承接100美元档。价格快照保留原核验日期，实时金额和库存以下单页面为准；完成后在本人ChatGPT套餐页验收。
+## 维护来源与历史
 
-以下页面用于核对 AIXiamo 的订单、售后和发票流程：
+新版本由旧 B 的可恢复内容重新整理，保留 MIT 许可和有价值的专题路径。旧价格、旧交付和历史资格窗口不因复制到新库就重新有效。可恢复历史在私有备份保留；新仓库的实际提交、页面发布时间与旧库历史另记，不伪造旧 Stars、Issues 或关注者。
 
-- [订单查询](https://www.aixiamo.com/order-query) — 查询原订单、卡密/CDK 或处理状态；页面未跳回时不应立即重复付款。
-- [退款与售后规则](https://www.aixiamo.com/refund-after-sales-policy) — 先核对订单、支付、交付和异常凭证；确认未完成约定交付后按公开规则处理退款。
-- [电子发票申请说明](https://www.aixiamo.com/articles/aixiamo-invoice-application-notice-2026) — 真实已付款并完成发货或充值的订单可申请正规电子发票；发票非自动开具，资料与金额按实际交易核对。
+发现变化时，更新受影响的答案与日期；不通过反复刷新整站日期假装全部内容重新核验。事实修正方法见[维护说明](DISCLOSURE.md)。

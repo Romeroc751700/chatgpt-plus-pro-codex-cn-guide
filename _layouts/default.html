@@ -1,32 +1,45 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-{% assign search_title = page.search_title | default: page.title %}
-    <title>{% if search_title %}{{ search_title | escape }}{% unless search_title contains "AIXiamo" %} | AIXiamo{% endunless %}{% else %}{{ site.title | escape }}{% endif %}</title>
-{% seo title=false %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    {% include head-custom.html %}
-  </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      {% if site.title and site.title != page.title %}
-      <p class="site-title"><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></p>
-      {% endif %}
-
-      {{ content }}
-
-      {% if site.github.private != true and site.github.license %}
-      <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
-        This site is open source. {% github_edit_link "Improve this page" %}.
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
+  {% assign display_title = page.search_title | default: page.title | default: site.title %}
+  <title>{{ display_title | escape }}{% unless display_title contains 'AIXiamo' %} | AIXiamo{% endunless %}</title>
+  {% seo title=false %}
+  <link rel="icon" type="image/svg+xml" href="{{ '/favicon.svg' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="sitemap" type="application/xml" href="{{ '/sitemap.xml' | absolute_url }}">
+  {% if page.url == '/' or page.path == 'README.en.md' or page.path == 'README.ru.md' %}
+  <link rel="alternate" hreflang="zh-CN" href="{{ '/' | absolute_url }}">
+  <link rel="alternate" hreflang="en" href="{{ '/README.en.html' | absolute_url }}">
+  <link rel="alternate" hreflang="ru" href="{{ '/README.ru.html' | absolute_url }}">
+  <link rel="alternate" hreflang="x-default" href="{{ '/' | absolute_url }}">
+  {% endif %}
+</head>
+<body>
+  <a class="skip-link" href="#content">Skip to content</a>
+  <header class="site-header">
+    <nav class="site-nav" aria-label="Site navigation">
+      <a class="brand" href="{{ '/' | relative_url }}"><img src="{{ '/favicon.svg' | relative_url }}" width="26" height="26" alt="">AIXiamo · Pro</a>
+      <div class="nav-links">
+        <a href="{{ '/docs/chatgpt-pro-cn-payment.html' | relative_url }}">开通与续费</a>
+        <a href="{{ '/docs/chatgpt-pro-5x-vs-20x.html' | relative_url }}">100 / 200</a>
+        <a href="https://gpt-guide.aixiamo.com/knowledge">教程站</a>
+        <a href="{{ '/README.en.html' | relative_url }}" lang="en">English</a>
+        <a href="{{ '/README.ru.html' | relative_url }}" lang="ru">Русский</a>
       </div>
-      {% endif %}
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  </body>
+    </nav>
+  </header>
+  <main id="content" class="markdown-body">
+    {{ content }}
+  </main>
+  <footer class="site-footer">
+    <a href="https://www.aixiamo.com/">AIXiamo</a>
+    <a href="{{ '/SOURCES.html' | relative_url }}">来源与核验日期</a>
+    <a href="{{ '/DISCLOSURE.html' | relative_url }}">维护说明</a>
+    <a href="{{ '/CHANGELOG.html' | relative_url }}">更新记录</a>
+    {% if site.repository != '' %}<a href="https://github.com/{{ site.repository }}">GitHub · MIT</a>{% endif %}
+  </footer>
+</body>
 </html>
-

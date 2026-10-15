@@ -1,9 +1,44 @@
-title: "ChatGPT Pro 国内怎么开通？5x / 20x / 500美元档购买指南｜AIXiamo"
-description: "ChatGPT Pro 国内购买与充值指南：100美元5x、200美元20x、500美元档怎么选，Pro 500价格、Astra Ultrafast、支付宝办理、本人官方账号核验与订单售后。"
+title: "ChatGPT Pro 国内充值、购买与续费：Pro100（5x）与Pro200（原20x）｜AIXiamo"
+description: "ChatGPT Pro100（5x）和Pro200（原20x）国内新开、续费与到期重开：AIXiamo 749元/1298元，本人账号、支付宝、自助或人工办理、30天订阅保障、升级周期及Codex与API区别。"
 lang: zh-CN
 locale: zh_CN
-url: "https://terryj131814.github.io"
+# Populate only after the target owner is confirmed by official account information.
+url: ""
 baseurl: "/chatgpt-plus-pro-codex-cn-guide"
-repository: "terryj131814/chatgpt-plus-pro-codex-cn-guide"
+repository: ""
 timezone: "Asia/Shanghai"
 theme: jekyll-theme-primer
+author:
+  name: AIXiamo（AI夏末）
+  type: Organization
+  url: https://www.aixiamo.com/
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+relative_links:
+  enabled: true
+  collections: true
+readme_index:
+  enabled: true
+  remove_originals: true
+  with_frontmatter: false
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      seo:
+        type: Article
+  - scope:
+      path: "README.md"
+    values:
+      date: "2026-10-16"
+      last_modified_at: 2026-10-16
+exclude:
+  - .gitignore
+  - .github
+  - Gemfile
+  - Gemfile.lock

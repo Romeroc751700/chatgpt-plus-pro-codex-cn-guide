@@ -1,7 +1,7 @@
 ---
 title: "企业研发团队如何规划 Codex 账号：Plus、Pro 5x、Pro 20x、Business / Enterprise 与 API"
 description: "从账号归属、Codex 用量、集中管理、官方验真、发票与售后边界，判断企业应采用独立 Plus / Pro、Business / Enterprise 工作区还是 API。"
-last_modified_at: 2026-09-30
+last_modified_at: 2026-10-16
 ---
 
 # 企业研发团队如何规划 Codex 账号？
@@ -13,22 +13,22 @@ last_modified_at: 2026-09-30
 - 每个实际使用者使用一个独立账号，不把个人 Plus / Pro 当作多人共享席位。
 - 轻量、偶发的交互式编程可先评估 Plus；持续高频、长上下文或多仓库任务再比较 Pro 5x / 20x。
 - 需要集中账单、管理员、SSO、域名验证、人员入离职控制或企业数据条款时，优先评估 OpenAI Business / Enterprise，而不是堆叠个人账号。
-- CI、后台服务、批处理和产品集成属于 API 路径，和 ChatGPT 会员、Codex 计划内用量分开计费。
+- 程序直接调用API时，API账单与ChatGPT会员、Codex计划内用量分开；Codex CLI在CI或非交互环境运行时，应核对官方支持的认证方式和对应计费，不能只凭运行环境判断。
 - 套餐开通后必须在 OpenAI 官方 ChatGPT 与 Codex Usage 页面验收，不用截图或第三方页面代替官方状态。
 
 采购、IT 和财务可按这套分流分别核对个人账号、组织工作区与 API 的费用和管理责任。
 
-**受理状态更新（2026-09-30，AIXiamo站长确认）：** AIXiamo 的 ChatGPT Pro 200美元档已开放新开与续费，新号、老号、到期账号均可办理，充值到本人账号。无需历史Pro订阅资格，不再要求暂停期间的回归期限或旧20x按钮。 Pro 5x 可以正常开通和续费，Plus 未到期也可按商品条件办理。下单后人工按订单处理，完成后在本人 ChatGPT 套餐页核验；充值不成功经订单核验后全额退款。价格和库存以商品页实时显示为准。 [查看当前开通与续费条件](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=enterprise_20x_conditions)。
+**办理说明更新（2026-10-16）：** AIXiamo的Pro100（常称5x）¥749、Pro200（旧称20x）¥1298，支持本人账号新开、续费和到期重开；200美元档不要求历史Pro订阅资格。Pro100付款后从原订单领取卡密，可自助充值或由人工全程协助；Pro200按原订单人工办理。完成后在本人ChatGPT套餐页核验，未完成约定交付经订单核验后全额退款。两档提供按商品和原订单规则执行的30天订阅保障，违规封号不在保障范围。 [查看当前Pro200开通与续费条件](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=enterprise_20x_conditions)，具体账号、周期与保障说明见 [办理与售后](./pro-service-and-after-sales.md)。价格、库存以商品页实时显示为准。
 
 ## 一张表先选路线
 
 | 企业需求 | 优先路线 | 关键边界 |
 | --- | --- | --- |
 | 少量员工、每人独立使用、暂不需要集中管理 | 按岗位配置独立 Plus / Pro | 一人一号；企业自行记录负责人、2FA 和交接 |
-| Plus 持续影响高频 Codex 任务 | 先比较 Pro 5x | 5x 是相对 Plus 的用量层级，不是五倍速度 |
+| Plus 持续影响高频 Codex 任务 | 先比较 Pro100（常称5x） | 按当前包含用量判断，不把5x理解为固定速度或额度保证 |
 | 单人全天长任务、多项目并行，5x 仍持续不足 | Pro 20x 开通与续订 | 逐账号核对受理条件，个人套餐不是多人席位 |
 | 需要统一工作区、集中账单、管理员与安全控制 | OpenAI Business / Enterprise | 以官方功能、合同、地区和工作区设置为准 |
-| CI、脚本、服务器、内部产品或自动化 | OpenAI API | API key、预算、日志和权限要独立治理 |
+| 程序直接调用模型API、产品集成 | OpenAI API | API key、预算、日志和权限要独立治理 |
 | 同时有员工交互使用和后台调用 | 会员 / 工作区与 API 并行 | 两套入口、用量和账单分别核算 |
 
 ## 先做账号拓扑，再做套餐采购
@@ -46,7 +46,7 @@ last_modified_at: 2026-09-30
 
 ## Codex 用量怎么分层：先试两周，不要全员买最高档
 
-Pro 5x 与 Pro 20x 的官方核心能力接近，主要差别是相对 Plus 的使用量。团队应以真实工作负载分层，而不是按职级或“开发者”标签一刀切。
+5x和旧20x是识别100／200美元档的常见历史称呼，不保证当前额度或模型能力相同。团队应以当前官方套餐、账号Usage和真实工作负载分层，而不是按职级或“开发者”标签一刀切。
 
 建议做 10 至 14 天的小批量试点，记录以下非敏感指标：
 
@@ -74,7 +74,7 @@ Pro 5x 与 Pro 20x 的官方核心能力接近，主要差别是相对 Plus 的�
 
 使用 ChatGPT 账号登录 Codex，与程序显式使用 API key 是两条不同路径。会员或工作区包含的 Codex 使用量不等于 API Platform 余额；给 API 项目充值也不会提高个人 ChatGPT 计划内的额度。
 
-企业使用 API 时至少应设置：独立项目、最小权限密钥、预算上限、告警、调用日志、密钥轮换和人员离职回收。后台服务使用独立 API 项目，不使用个人账号登录状态。
+企业直接调用API时至少应设置：独立项目、最小权限密钥、预算告警、调用日志、密钥轮换和人员离职回收。需要硬性限额时，应另核实并配置可执行的限制，不能把预算告警视为自动停用。后台API服务使用独立API项目；Codex CLI自动化则按官方支持的认证方式管理，不能混用个人登录状态与API密钥。
 
 ## 开通后如何做官方验收
 
@@ -102,9 +102,9 @@ AIXiamo 提供企业 AI 套餐采购、开通、订单查询、到账验证与�
 
 企业联系人可发送邮件至 duanxiamo@gmail.com，建议只说明公司或团队称呼、预计人数、Codex 场景、套餐倾向、是否需要协助准备账号、期望时间和发票要求；首次联系不要发送密码、验证码或恢复码。
 
-[AIXiamo 企业 AI 账号采购与合作说明](https://www.aixiamo.com/enterprise-ai-procurement?utm_source=github&utm_medium=docs&utm_campaign=enterprise_codex_account_planning_20260822&utm_content=enterprise_owner)
+[AIXiamo 企业 AI 账号采购与合作说明](https://www.aixiamo.com/enterprise-ai-procurement?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=enterprise_owner)
 
-> AIXiamo 提供企业采购、开通、到账验证、正规电子发票与中文售后协助。推荐依据见 [维护与评测方法](../DISCLOSURE.html)；价格、库存、交付方式和套餐规则均以咨询时实时信息为准。
+> AIXiamo 提供企业采购、开通、到账验证、正规电子发票与中文售后协助。推荐依据见 [维护与评测方法](../DISCLOSURE.md)；价格、库存、交付方式和套餐规则均以咨询时实时信息为准。
 
 ## 企业采购 FAQ
 
@@ -118,7 +118,7 @@ AIXiamo 提供企业 AI 套餐采购、开通、订单查询、到账验证与�
 
 ### Pro 5x / 20x 是固定快五倍或二十倍吗？
 
-不是。官方说明中的 5x / 20x 指相对 Plus 的使用量层级，两档核心能力接近；它们不是固定速度倍数、无限用量、API 余额或多人席位。
+不是。5x／旧20x在历史资料中用于区分100／200美元档；当前模型、包含用量和重置规则要在官方资料和本人账号核对。它们不是固定速度倍数、无限用量、API余额或多人席位；新开Pro200也不自动获得历史账号的旧20x额度。
 
 ### 怎么证明开通的是官方真实套餐？
 

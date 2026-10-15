@@ -1,4 +1,38 @@
+---
+layout: null
+sitemap: false
+---
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: bingbot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
 User-agent: *
 Allow: /
 
-Sitemap: https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/sitemap.xml
+Sitemap: {{ '/sitemap.xml' | absolute_url }}

@@ -1,15 +1,41 @@
 ---
 ---
-
 @import "{{ site.theme }}";
 
-.markdown-body .site-title {
-  margin-top: 24px;
-  margin-bottom: 16px;
-  padding-bottom: 0.3em;
-  border-bottom: 1px solid #eaecef;
-  font-size: 2em;
-  font-weight: 600;
-  line-height: 1.25;
+:root { color-scheme: light; }
+* { box-sizing: border-box; }
+html { scroll-padding-top: 24px; }
+body { margin: 0; background: #fff; color: #20262c; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans SC", sans-serif; font-size: 17px; line-height: 1.85; letter-spacing: 0; }
+a { color: #075cc4; text-underline-offset: 3px; }
+a:hover { text-decoration-thickness: 2px; }
+a:focus-visible { outline: 3px solid #109478; outline-offset: 4px; }
+.site-header { border-bottom: 1px solid #dce3e8; background: #f7f9fb; }
+.site-nav { max-width: 1040px; margin: 0 auto; padding: 20px 28px; display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+.brand { display: inline-flex; align-items: center; gap: 9px; color: #172d3a; font-size: 19px; font-weight: 700; text-decoration: none; }
+.brand img { flex: 0 0 26px; }
+.nav-links { display: flex; gap: 14px 20px; flex-wrap: wrap; font-size: 14px; }
+.markdown-body { max-width: 1040px; margin: 0 auto; padding: 42px 28px 48px; font-family: inherit; font-size: 17px; line-height: 1.85; overflow-wrap: anywhere; }
+.markdown-body h1 { font-size: 30px; line-height: 1.45; padding-bottom: 22px; margin-bottom: 24px; color: #152e3b; letter-spacing: 0; }
+.markdown-body h2 { font-size: 24px; line-height: 1.55; margin-top: 44px; padding-bottom: 10px; color: #123f4b; letter-spacing: 0; }
+.markdown-body h3 { font-size: 20px; line-height: 1.6; margin-top: 30px; letter-spacing: 0; }
+.markdown-body p, .markdown-body li { max-width: 100%; }
+.markdown-body table { display: block; max-width: 100%; overflow-x: auto; font-size: 15px; line-height: 1.7; }
+.markdown-body th { background: #edf6f4; text-align: left; }
+.markdown-body td, .markdown-body th { min-width: 125px; padding: 12px; vertical-align: top; border-color: #dce5e9; }
+.markdown-body tr:nth-child(2n) { background: #f8fafb; }
+.markdown-body pre { max-width: 100%; overflow: auto; border-radius: 4px; }
+.markdown-body blockquote { border-left-color: #109478; background: #f4f9f7; padding: 12px 18px; color: #304b4b; }
+.markdown-body img { max-width: 100%; height: auto; }
+.site-footer { max-width: 1040px; margin: 0 auto; padding: 24px 28px 38px; border-top: 1px solid #dce3e8; display: flex; gap: 12px 22px; flex-wrap: wrap; font-size: 14px; }
+.skip-link { position: absolute; top: -80px; left: 12px; z-index: 5; background: #fff; padding: 8px 14px; }
+.skip-link:focus { top: 10px; }
+@media (max-width: 600px) {
+  .site-nav { padding: 16px 20px; gap: 12px; }
+  .nav-links { width: 100%; gap: 8px 18px; }
+  .markdown-body { padding: 28px 20px 36px; font-size: 16px; }
+  .markdown-body h1 { font-size: 26px; }
+  .markdown-body h2 { font-size: 22px; margin-top: 34px; }
+  .markdown-body h3 { font-size: 19px; }
+  .markdown-body table { font-size: 14px; }
+  .site-footer { padding: 22px 20px 32px; }
 }
-
