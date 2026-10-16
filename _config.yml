@@ -7,6 +7,9 @@ baseurl: "/chatgpt-plus-pro-codex-cn-guide"
 repository: "Romeroc751700/chatgpt-plus-pro-codex-cn-guide"
 timezone: "Asia/Shanghai"
 theme: jekyll-theme-primer
+webmaster_verifications:
+  google: "Wq3d0m040ocbjk9CBYT_beJhTCf5F-Pz4xXFqvob1YE"
+  bing: "047AAC76C49C0D850CE4D2A697A83B26"
 author:
   name: AIXiamo（AI夏末）
   type: Organization
