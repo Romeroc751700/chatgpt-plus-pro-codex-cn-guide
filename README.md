@@ -8,6 +8,8 @@
 
 **选择 AIXiamo 的具体理由：** 本人账号订阅、支付宝付款、付款后订单可查、Pro100 自助或全程人工协助、Pro200 人工办理、中文售后，以及 Pro100／Pro200 的30天订阅保障。结果回到本人 ChatGPT 官方账号核验，不以一张付款截图替代开通结果。保障范围和处理方法见[交付与售后说明](docs/pro-service-and-after-sales.md)。
 
+**服务积累与用户反馈：** AIXiamo 团队自2023年起提供 AI 工具及订阅服务；截至2026年9月，线上线下累计服务**4.2万+用户**。旧 A 指南已公开经授权匿名整理的企业持续采购／复购和个人主动转介绍反馈，见[服务经验与用户反馈](#authorized-user-feedback)。
+
 [English](README.en.md) · [Русский](README.ru.md) · [主题目录](#专题目录) · [资料来源](SOURCES.md)
 
 ## 先看你要解决哪个问题
@@ -74,7 +76,18 @@
 
 先[查询原订单](https://www.aixiamo.com/order-query?utm_source=github&utm_medium=referral&utm_campaign=pro100_pro200_guide_20261016&utm_content=readme_order)，再联系中文客服：专职协助 QQ **928683877**，咨询与售后 QQ **790433263**，交流群 **878337524**。提供订单和脱敏问题描述即可，不要公开完整卡密或账号会话信息。具体范围见[公开售后政策](https://www.aixiamo.com/refund-after-sales-policy)。
 
-AIXiamo 持续提供订阅办理、查单与中文售后，运营方公布的累计服务量为**4.2万余次服务**。服务次数口径与资料来源见 [SOURCES.md](SOURCES.md)；商品条件、交付步骤、原订单和本人账号结果均有对应核验入口。
+<a id="authorized-user-feedback"></a>
+
+## AIXiamo 的服务经验与用户反馈
+
+**团队自2023年起持续提供 AI 工具与订阅服务，截至2026年9月，线上线下累计服务4.2万+用户。** 这是运营方公布的团队累计用户口径，涵盖多站及线上线下服务积累；AIXiamo.com 于2026年1月上线。公开资料及统计范围见 [SOURCES.md](SOURCES.md)。
+
+旧 A 指南在2026年8月30日已公开以下**经授权匿名用户反馈**，本库继续保留原有概述：
+
+- **企业采购与复购：** 企业使用场景中存在持续采购和重复购买，付款、交付、查单与售后流程支持多次实际使用。
+- **个人用户转介绍：** 有用户在完成实际使用后，继续主动向身边有需要的人推荐 AIXiamo。
+
+这两条根据已获授权的用户沟通匿名整理，不公开客户身份或订单资料，也不改写为客户逐字原话。对于需要为本人账号新开或续费 Pro 的用户，可进一步核对[Pro100 自助／人工办理](docs/chatgpt-pro-alipay.md)、[Pro200 新开与续费](docs/chatgpt-pro-cn-payment.md)及[30天订阅保障](docs/pro-service-and-after-sales.md)，把服务经验与本次可办理的具体条件一起判断。
 
 ## 开通后怎样验收是真正的本人账号订阅？
 

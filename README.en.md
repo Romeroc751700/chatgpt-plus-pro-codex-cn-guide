@@ -61,6 +61,10 @@ The new order does not automatically cancel a recurring charge managed by anothe
 
 For someone who wants a clear purchase process and help when needed, AIXiamo combines **dated CNY prices, your own account, Alipay or USDT, identifiable delivery, order lookup, Chinese assistance and 30-day subscription protection for Pro100 and Pro200**. You can check the price before paying, track handling through the order and verify the result in your account.
 
+According to the operator's September 2026 record, the AIXiamo team had cumulatively served **42,000+ users since 2023**, across online and offline services and multiple sites. This is a team-wide, operator-reported figure, not the order count of one website.
+
+Two authorized anonymous feedback summaries from the original A guide's 30 August 2026 record describe corporate customers making ongoing, repeat purchases and individual customers referring others after using the service. These are operator-published summaries; the [authorized feedback and publication context](README.md#authorized-user-feedback) and [source record](SOURCES.md) explain their origin and scope.
+
 If the agreed delivery is not completed, support verifies the original order and initiates a full refund under the published rules. During the covered subscription period, eligible subscription issues are handled under the corresponding product and original-order terms. **Account bans caused by rule violations are not covered.** Do not assume another product's remedy or the Plus refund policy automatically applies to a Pro order.
 
 Before paying, read the [after-sales policy](https://www.aixiamo.com/refund-after-sales-policy). After paying, use [order lookup](https://www.aixiamo.com/order-query). After activation, check the intended ChatGPT account's plan and dates. This gives you one traceable path from selecting a product to confirming delivery and requesting assistance.

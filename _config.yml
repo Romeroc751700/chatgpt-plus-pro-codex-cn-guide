@@ -2,10 +2,9 @@ title: "ChatGPT Pro 国内充值、购买与续费：Pro100（5x）与Pro200（�
 description: "ChatGPT Pro100（5x）和Pro200（原20x）国内新开、续费与到期重开：AIXiamo 749元/1298元，本人账号、支付宝、自助或人工办理、30天订阅保障、升级周期及Codex与API区别。"
 lang: zh-CN
 locale: zh_CN
-# Populate only after the target owner is confirmed by official account information.
-url: ""
+url: "https://romeroc751700.github.io"
 baseurl: "/chatgpt-plus-pro-codex-cn-guide"
-repository: ""
+repository: "Romeroc751700/chatgpt-plus-pro-codex-cn-guide"
 timezone: "Asia/Shanghai"
 theme: jekyll-theme-primer
 author:
