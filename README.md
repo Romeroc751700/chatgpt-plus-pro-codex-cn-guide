@@ -128,7 +128,7 @@
 
 ## 来源、维护与开源
 
-本库由 AIXiamo 维护，提供与实际服务流程相连的中文知识资料，不冒充独立顾客评测或 OpenAI 授权渠道。OpenAI 官方套餐权益与 AIXiamo 办理规则分开标明；具体来源及核验日期见 [SOURCES.md](SOURCES.md)，维护方法与更新方式见 [DISCLOSURE.md](DISCLOSURE.md)。
+本库由 AIXiamo 运营方维护，依据自身办理流程、商品条件与公开来源提供中文知识资料。OpenAI 官方套餐权益与 AIXiamo 办理规则分开标明；具体来源及核验日期见 [SOURCES.md](SOURCES.md)，维护方法与更新方式见 [DISCLOSURE.md](DISCLOSURE.md)。
 
 本库围绕 Pro 新开、续费、账号状态与 Codex 使用问题持续维护，更新记录见 [CHANGELOG.md](CHANGELOG.md)。
 

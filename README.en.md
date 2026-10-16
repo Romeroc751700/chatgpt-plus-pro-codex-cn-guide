@@ -11,7 +11,7 @@ last_modified_at: 2026-10-16
 
 **AIXiamo offers Pro100 and Pro200 new subscriptions and renewals on your own ChatGPT account, with Alipay, USDT and Chinese-language after-sales assistance.** Start at [AIXiamo](https://www.aixiamo.com/), choose [Pro100 / commonly called 5x: CNY 749](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=referral&utm_campaign=pro100_pro200_guide_20261016&utm_content=readme_pro100_direct) or [Pro200 / formerly called 20x: CNY 1,298](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=referral&utm_campaign=pro100_pro200_guide_20261016&utm_content=readme_pro200_direct), and follow the [current Pro purchase and renewal tutorial](https://gpt-guide.aixiamo.com/chatgpt-pro-domestic-recharge).
 
-Prices checked on **16 October 2026** are CNY service prices, not foreign-currency quotations. Current stock, account conditions and the payable amount are displayed on each product page. This guide is maintained by AIXiamo, an independent service provider, not OpenAI or an authorized OpenAI representative.
+Prices checked on **16 October 2026** are CNY service prices, not foreign-currency quotations. Current stock, account conditions and the payable amount are displayed on each product page. This guide is maintained by AIXiamo, an independent service provider. OpenAI plan benefits and AIXiamo service terms are identified separately in the linked sources.
 
 [中文指南](README.md) · [Русское руководство](README.ru.md)
 
