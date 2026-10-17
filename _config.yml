@@ -38,7 +38,7 @@ defaults:
       path: "README.md"
     values:
       date: "2026-10-16"
-      last_modified_at: 2026-10-16
+      last_modified_at: 2026-10-17
 exclude:
   - .gitignore
   - .github

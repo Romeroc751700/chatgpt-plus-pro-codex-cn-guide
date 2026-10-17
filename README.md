@@ -16,8 +16,12 @@
 
 | 你的情况 | 直接答案 | 继续阅读 |
 | --- | --- | --- |
+| 没有海外银行卡，怎么充值 Pro？ | 本人账号，支付宝；Pro100 自助或人工、Pro200 人工。 | [无海外卡与付款步骤](docs/chatgpt-pro-alipay.md) |
 | 从未买过 Pro，想直接开通 | 可直接选择 Pro100 或 Pro200，不必先买 Plus | [新开与账号条件](docs/chatgpt-pro-cn-payment.md#pro-availability) |
 | Pro 已到期，想继续使用 | 支持续费／到期重开；先确认本次档位和生效周期 | [续费与到期重开](docs/chatgpt-pro-cn-payment.md) |
+| 以前在别处买的 Pro，能转来续费吗？ | 按账号与档位办理，原渠道自动续费由本人管理。 | [跨渠道续费条件](docs/chatgpt-pro-cn-payment.md#pro-availability) |
+| 国内 Pro 代充怎么选，怎样判断靠谱？ | 看账号订阅核验、订单查询及30天保障规则。 | [办理与售后依据](docs/pro-service-and-after-sales.md) |
+| 只需要 Plus，国内怎么新开或续费？ | 本人账号、支付宝，新开续费均有中文协助。 | [Plus 价格与新开续费](docs/chatgpt-plus-cn-payment.md) |
 | Plus 没到期，想买 Pro100 | 可办理；成功后为新的30天，旧剩余天数不叠加；可先问个体估价 | [Plus 升级与差价](docs/chatgpt-plus-vs-pro.md) |
 | 已有 Plus／Pro100，想上 Pro200 | 支持符合条件的升级；办理前确认估价、起算日与旧权益处理 | [升级到 Pro200](docs/chatgpt-pro-cn-payment.md#pro200-upgrade-before-expiry) |
 | Pro200 还没到期，想提前续费 | 先确认原订阅和新周期处理，不把普通续费理解成自动叠加 | [Pro200 提前续费](docs/chatgpt-pro-cn-payment.md#pro200-early-renewal) |
