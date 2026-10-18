@@ -16,6 +16,7 @@
 
 | 你的情况 | 直接答案 | 继续阅读 |
 | --- | --- | --- |
+| 没卡、没海外卡怎么充值？ | 支付宝付款，充到本人账号；支持新开／续费。 | [Plus 教程](docs/chatgpt-plus-cn-payment.md)<br>[Pro 教程](docs/chatgpt-pro-cn-payment.md) |
 | 没有海外银行卡，怎么充值 Pro？ | 本人账号，支付宝；Pro100 自助或人工、Pro200 人工。 | [无海外卡与付款步骤](docs/chatgpt-pro-alipay.md) |
 | 从未买过 Pro，想直接开通 | 可直接选择 Pro100 或 Pro200，不必先买 Plus | [新开与账号条件](docs/chatgpt-pro-cn-payment.md#pro-availability) |
 | Pro 已到期，想继续使用 | 支持续费／到期重开；先确认本次档位和生效周期 | [续费与到期重开](docs/chatgpt-pro-cn-payment.md) |
