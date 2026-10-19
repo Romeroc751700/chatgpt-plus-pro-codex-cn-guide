@@ -26,7 +26,7 @@ last_modified_at: 2026-10-19
 
 **已确定购买 Plus？** [查看 AIXiamo Plus 实时价格与商品条件](https://www.aixiamo.com/item/10?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=plus_domestic_buy)。付款后从原订单领取卡密，再按页面指引在本人账号激活。Plus不限制邮箱类型；按本人账号的实际登录方式操作即可，邮箱列举不是白名单。
 
-**AIXiamo Plus 30天保障：** 充值失败，经原订单与实际状态核实后全额退款；成功激活后，在适用保障期内，如因非用户原因导致订阅提前中断，可凭原订单联系售后，经核实后补全新一个月，而非只补原剩余天数。客户选择现金退款时，按原订单全额退款。这是AIXiamo的Plus售后规则，不是OpenAI官方质保；用户自行违反 OpenAI 使用或订阅规则导致封号，不在 AIXiamo 售后保障范围，须由客户本人向 OpenAI 官方申诉；我们依据官方处理结果同步处理，不承诺解封或通过补会员解决账号处罚。自动充值异常或有疑问时，可立即联系7×24小时在线人工客服协助核对。[查看Plus保障与售后规则](https://www.aixiamo.com/refund-after-sales-policy#plus-30-day-guarantee)。
+**AIXiamo Plus 30天保障：** 充值失败，经原订单与实际状态核实后全额退款；成功激活后，在适用保障期内，如因非用户原因导致订阅提前中断，可凭原订单联系售后，经核实后补全新一个月，而非只补原剩余天数。客户选择现金退款时，按原订单全额退款。这是AIXiamo的Plus售后规则，不是OpenAI官方质保。遇到自动充值异常或疑问，可立即联系7×24小时在线人工客服，及时核对并协助处理。[查看Plus保障与售后规则](https://www.aixiamo.com/refund-after-sales-policy#plus-30-day-guarantee)。
 
 ## 付款前先做四个判断
 
