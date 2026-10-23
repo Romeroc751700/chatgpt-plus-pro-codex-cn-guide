@@ -1,7 +1,7 @@
 ---
 title: "Pro100、Pro200 怎么办理？本人账号、新开续费与30天保障"
 description: "AIXiamo Pro100、Pro200 本人账号办理说明：支付宝、自助或人工、新开续费状态、30天订阅保障、官方套餐核验及原订单售后。"
-last_modified_at: 2026-10-20
+last_modified_at: 2026-10-23
 ---
 
 # Pro100、Pro200 办理与售后：买完之后每一步怎么走？
@@ -77,7 +77,7 @@ Pro 保障不等于承诺已激活订单在任何情况下都无条件全额现�
 - 问题发生在哪一步，以及脱敏后的错误提示。
 - 若涉及周期，提供当前套餐显示的日期；若涉及 Codex，用 Usage 提示说明是哪种限制。
 
-客服会据此区分付款、交付、账号套餐和 Codex 用量问题。中文人工帮助并不限于售后，自助前不确定操作，也可以先问清再办理。多个微信群和QQ群供用户交流 ChatGPT／Codex 使用经验；遇到自动充值异常、疑问或售后问题，可立即联系7×24小时在线人工客服，也可随时私聊群管理员，及时核对并耐心协助处理。另有 Telegram 客服、网页在线留言和邮箱留言等多渠道协助；不承诺每单瞬时回复或固定处理时限。联系方式以[主站客服与办理入口](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=pro_service_help)当前显示为准。
+客服会据此区分付款、交付、账号套餐和 Codex 用量问题。中文人工帮助并不限于售后，自助前不确定操作，也可以先问清再办理。多个微信群和QQ群供用户交流 ChatGPT／Codex 使用经验；遇到自动充值异常、疑问或售后问题，可立即联系7×24小时在线人工客服，也可随时私聊群管理员，及时核对并耐心协助处理。另有 Telegram 客服、网页在线留言和邮箱留言等多渠道协助；具体响应与处理时间依问题核验及原订单情况确定。联系方式以[主站客服与办理入口](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=pro_service_help)当前显示为准。
 
 ## 为什么这些信息能帮助选择服务？
 
