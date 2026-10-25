@@ -19,7 +19,7 @@
 | [Pro100 商品](https://www.aixiamo.com/item/8) | 新开／续费、本人账号、卡密交付、自助或全程人工协助及适用账号 | ¥749，2026-10-16 |
 | [Pro200 商品](https://www.aixiamo.com/item/7) | 新开／续费／到期重开与人工办理；未到期情况先确认周期 | ¥1298，2026-10-16 |
 | [Pro500 商品](https://www.aixiamo.com/item/18) | 次级专题的500美元档与人工办理，不套用其他商品保障 | ¥3350，2026-10-16 |
-| [Plus 商品](https://www.aixiamo.com/item/10) | Plus 新开续费、领卡与本人自助激活，不限制邮箱类型 | ¥153.8，2026-10-16 |
+| [Plus 商品](https://www.aixiamo.com/item/10) | Plus 新开续费、领卡与本人自助激活，不限制邮箱类型 | ¥148.8，2026-10-25 |
 | [Pro 办理页](https://www.aixiamo.com/chatgpt-pro) | 当前各档位的交付和账号条件 | 实时页面为准 |
 | [公开售后政策](https://www.aixiamo.com/refund-after-sales-policy) | 保障、原订单核验、未完成约定交付与已激活后异常分别处理 | 不扩张适用范围 |
 | [订单查询](https://www.aixiamo.com/order-query) | 已付款、卡密／交付与处理状态 | 查询结果不公开到仓库 |
