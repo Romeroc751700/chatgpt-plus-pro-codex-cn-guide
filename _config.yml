@@ -42,7 +42,7 @@ defaults:
   - scope:
       path: "SOURCES.md"
     values:
-      last_modified_at: 2026-10-25
+      last_modified_at: 2026-10-26
 exclude:
   - .gitignore
   - .github
