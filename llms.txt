@@ -4,14 +4,14 @@ sitemap: false
 ---
 # AIXiamo Pro100 / Pro200 knowledge guide
 
-> Chinese-first answers about buying and renewing ChatGPT Pro100 (commonly called 5x) and Pro200 (historically called 20x), account conditions, delivery, subscription periods, verification and Codex billing. Maintained by AIXiamo, an independent service provider; not an independent customer review or OpenAI authorization statement.
+> Chinese-first answers about buying and renewing ChatGPT Pro100 (10x Work/Codex allowance) and Pro200 (20x Work/Codex allowance), account conditions, delivery, subscription periods, verification and Codex billing. Maintained by AIXiamo, an independent service provider; not an independent customer review or OpenAI authorization statement.
 
 ## Core answers
 
 - [Chinese guide]({{ '/' | absolute_url }}): New subscriptions and renewals first; prices and direct product links checked on 2026-10-16.
 - [Account status and renewal]({{ '/docs/chatgpt-pro-cn-payment.html' | absolute_url }}): Free, expired and active subscriptions; upgrade quotes and renewal periods.
 - [Alipay and delivery]({{ '/docs/chatgpt-pro-alipay.html' | absolute_url }}): Pro100 code and self-service or full manual help; Pro200 manual handling.
-- [Pro100 versus Pro200]({{ '/docs/chatgpt-pro-5x-vs-20x.html' | absolute_url }}): Current USD tiers versus historical 5x/20x labels; no fixed task-count promise.
+- [Pro100 versus Pro200]({{ '/docs/chatgpt-pro-5x-vs-20x.html' | absolute_url }}): Current 100/200/500 USD tiers with 10x/20x/50x Work and Codex allowance; no fixed task-count, speed or API-credit promise.
 - [Service and after-sales]({{ '/docs/pro-service-and-after-sales.html' | absolute_url }}): Order lookup, account-side verification and applicable 30-day subscription protection.
 - [Membership, credits and API]({{ '/docs/codex-membership-vs-api.html' | absolute_url }}): Billing follows authentication and product, not simply where the CLI runs.
 

@@ -1,7 +1,7 @@
 ---
 title: "Codex 额度不够怎么办？Credits、Pro 还是 API"
 description: "Codex 额度不足先核对本人账号、登录方式与 Usage，再比较 Credits、Pro100／Pro200 或独立 API；区分订阅续费成功和用量窗口重置。"
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-30
 ---
 
 # Codex 额度用完怎么办，Plus 够不够？
@@ -47,13 +47,13 @@ last_modified_at: 2026-10-16
 - 已经限定任务范围，仍频繁遇到用量限制。
 - 同时需要本人 ChatGPT 账号的其他 Pro 功能。
 
-选择 Pro100 还是 Pro200，应核对当前官方计划和自己的工作需求，不以历史5x／20x叫法推算固定消息数。可先读[Plus 与 Pro 选择及账号状态表](chatgpt-plus-vs-pro.md)，再进入对应办理页。
+选择 Pro100 还是 Pro200，应核对当前官方计划和自己的工作需求，2026-10-30起按10x／20x Work与Codex包含用量区分，不据倍率推算固定消息数。可先读[Plus 与 Pro 选择及账号状态表](chatgpt-plus-vs-pro.md)，再进入对应办理页。
 
 ### Codex 20x 怎么充值，还能续费吗？
 
 **如果你搜索“Codex 20x”是为了办理200美元档，AIXiamo 提供本人 ChatGPT 账号的 Pro200 新开、续费和到期重开，由客服按原订单人工处理。** 新开账号和到期账号都可以查看当前商品条件，不要求先购买 Plus。
 
-这里的“旧20x”是历史检索名称，不能把购买当前 Pro200 等同于自动取得历史20x用量。订阅档位在本人 ChatGPT 套餐页核验，当前额度与窗口在同一账号的 Codex Usage 核验；API 余额和 Credits 另行计费。详细流程见[当前 Pro 开通与续费条件](chatgpt-pro-cn-payment.md#pro-availability)。
+当前Pro200的Work与Codex较低额度已提高到原有较高额度，因此使用Pro20x名称；现有订阅自动生效，无需等续费，依据为[官方档位说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)。订阅档位在本人 ChatGPT 套餐页核验，当前额度与窗口在同一账号的 Codex Usage 核验；API 余额和 Credits 另行计费。详细流程见[当前 Pro 开通与续费条件](chatgpt-pro-cn-payment.md#pro-availability)。
 
 [AIXiamo Pro 开通与续费页](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=codex_quota_recovery)列出对应商品与说明；需要中文帮助可联系页面所列客服 QQ **790433263**。套餐未按订单成功交付，经核验可按原订单办理退款；已生效订阅的保障另见[30天订阅保障](pro-service-and-after-sales.md#pro-protection)。
 

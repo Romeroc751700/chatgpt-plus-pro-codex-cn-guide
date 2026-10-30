@@ -1,7 +1,7 @@
 ---
 title: "Plus 还是 Pro？ChatGPT 与 Codex 用户怎么选"
 description: "比较 Plus、Pro100 与 Pro200 的使用场景、本人账号开通与续费。说明 Plus 未到期升级、新30天周期、差价确认和 AIXiamo 办理入口。"
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-30
 ---
 
 # ChatGPT Plus 和 Pro 怎么选？
@@ -12,7 +12,7 @@ last_modified_at: 2026-10-16
 
 Pro100 可自动领卡后自助充值，也可请客服全程人工办理；Pro200 按原订单人工办理。两档均有明确的30天订阅保障范围及售后入口，详见[办理与保障说明](pro-service-and-after-sales.md)。选择时同时确认使用需求、当前账号状态和交付方式，即可接到相应办理路径。
 
-**名称要对应当前权益：** Pro100、Pro200 在本指南中分别指100美元、200美元档；“5x”“旧20x”是常见或历史检索叫法，不是对当前每个账号固定任务量的承诺。官方美元计划与本店人民币服务报价是两套价格口径；当前套餐和 Codex 用量以[官方定价说明](https://learn.chatgpt.com/docs/pricing)及本人 Usage 为准。
+**名称要对应当前权益：** Pro100、Pro200 在本指南中分别指100美元、200美元档；2026-10-30更新后分别为10x、20x Work与Codex包含用量，500美元档为50x；Plus本次不变，倍率不是固定任务数或API余额。官方美元计划与本店人民币服务报价是两套价格口径；当前套餐和 Codex 用量以[官方定价说明](https://learn.chatgpt.com/docs/pricing)及本人 Usage 为准。
 
 ## 决策表
 
@@ -27,9 +27,10 @@ Pro100 可自动领卡后自助充值，也可请客服全程人工办理；Pro2
 
 如果在 CLI 中使用 Codex，先看实际登录方式，而不是只看“命令行”这三个字：ChatGPT 登录和 API key 登录使用不同的计费路径，见[会员与 API 的区别](codex-membership-vs-api.md)。
 
-## Plus 还没到期，可以升级 Pro 5x 吗？
+<a id="plus-还没到期可以升级-pro-5x-吗"></a>
+## Plus还没到期，可以升级Pro100／10x吗？
 
-**可以按当前商品条件办理 Pro100，不必先等 Plus 到期。** AIXiamo 的 [Pro100／5x 商品](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=plus_pro_to_5x)支持 Free 新开，也支持符合条件的未到期 Go、Plus、Pro100 账号；并非所有用户都需要先买 Plus。仍在 Pro200 或更高档订阅期的账号，需等现有订阅到期后再按 Pro100 条件办理。
+**可以按当前商品条件办理 Pro100，不必先等 Plus 到期。** AIXiamo 的 [Pro100／10x 商品](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=plus_pro_to_5x)支持 Free 新开，也支持符合条件的未到期 Go、Plus、Pro100 账号；并非所有用户都需要先买 Plus。仍在 Pro200 或更高档订阅期的账号，需等现有订阅到期后再按 Pro100 条件办理。
 
 升级成功后是**新的30天周期，替换原订阅周期而不是把 Plus 剩余天数叠加上去**。办理前记录当前到期日、套餐与原付款渠道；原渠道的自动续费不会因这次办理而自动取消，需本人另行管理。
 

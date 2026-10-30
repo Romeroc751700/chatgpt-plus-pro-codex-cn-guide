@@ -1,5 +1,5 @@
-title: "ChatGPT Pro 国内充值、购买与续费：Pro100（5x）与Pro200（原20x）｜AIXiamo"
-description: "ChatGPT Pro100（5x）和Pro200（原20x）国内新开、续费与到期重开：AIXiamo 749元/1298元，本人账号、支付宝、自助或人工办理、30天订阅保障、升级周期及Codex与API区别。"
+title: "ChatGPT Pro20x国内购买与续费：Pro 200美金档位与Pro100（10x）｜AIXiamo"
+description: "ChatGPT Pro100（10x）和Pro200（20x）国内新开、续费与到期重开：AIXiamo 749元/1298元，本人账号、支付宝、自助或人工办理、30天订阅保障、升级周期及Codex与API区别。"
 lang: zh-CN
 locale: zh_CN
 url: "https://romeroc751700.github.io"
@@ -37,12 +37,13 @@ defaults:
   - scope:
       path: "README.md"
     values:
+      search_title: "ChatGPT Pro20x国内购买与续费：Pro 200美金档位与Pro100（10x）｜AIXiamo"
       date: "2026-10-16"
       last_modified_at: 2026-10-23
   - scope:
       path: "SOURCES.md"
     values:
-      last_modified_at: 2026-10-26
+      last_modified_at: 2026-10-30
 exclude:
   - .gitignore
   - .github

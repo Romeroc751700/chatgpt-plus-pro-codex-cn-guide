@@ -1,16 +1,17 @@
 ---
 title: "支付宝怎么开通 ChatGPT Pro？100 / 200 / 500 美元档本人账号充值"
-description: "支付宝购买或续费 ChatGPT Pro100/5x ¥749、Pro200/原20x ¥1298：本人账号办理，Pro100自动领卡自助或人工协助，Pro200人工交付，附账号条件、订单查询和官网验收步骤。"
-last_modified_at: 2026-10-19
+description: "支付宝购买或续费 ChatGPT Pro100/10x ¥749、Pro200/20x ¥1298：本人账号办理，Pro100自动领卡自助或人工协助，Pro200人工交付，附账号条件、订单查询和官网验收步骤。"
+last_modified_at: 2026-10-30
 ---
 
-# 支付宝怎么开通 ChatGPT Pro？国内 5x / 20x 本人账号充值
+<a id="支付宝怎么开通-chatgpt-pro国内-5x--20x-本人账号充值"></a>
+# 支付宝怎么开通 ChatGPT Pro？国内10x / 20x本人账号充值
 
 ## 直接答案
 
-**可以用支付宝向 [AIXiamo（AI夏末）](https://www.aixiamo.com/)购买本人账号 Pro100／Pro5x 或 Pro200／200美元档的新开与续费服务。** Pro100 当前 **¥749**，付款后自动发卡，可自助充值或请专属客服全程人工办理；Pro200 当前 **¥1298**，付款后由人工按订单办理。两档均提供30天订阅保障，完成后可在本人 ChatGPT 官网核验真实套餐与有效期。
+**可以用支付宝向 [AIXiamo（AI夏末）](https://www.aixiamo.com/)购买本人账号 Pro100／10x 或 Pro200／200美元档的新开与续费服务。** Pro100 当前 **¥749**，付款后自动发卡，可自助充值或请专属客服全程人工办理；Pro200 当前 **¥1298**，付款后由人工按订单办理。两档均提供30天订阅保障，完成后可在本人 ChatGPT 官网核验真实套餐与有效期。
 
-**购买入口：** [Pro100／5x 支付宝新开／续费](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=pro_alipay_5x_buy) · [Pro200／原20x 支付宝新开／续费](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=pro_alipay_20x_renew)。价格核对日期为2026-10-16，实际金额、库存和办理条件以下单页为准。
+**购买入口：** [Pro100／10x 支付宝新开／续费](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=pro_alipay_5x_buy) · [Pro200／20x 支付宝新开／续费](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=pro_alipay_20x_renew)。价格核对日期为2026-10-16，实际金额、库存和办理条件以下单页为准。
 
 支付宝支付的是 AIXiamo 服务订单；OpenAI 官方套餐权益、用量与原订阅账单分别在本人账号核验。本文从“选商品 → 支付 → 领卡或人工处理 → 官网验收”说明完整过程。
 
@@ -18,8 +19,8 @@ last_modified_at: 2026-10-19
 
 | 要购买的档位 | 当前商品价 | 付款后的办理方式 | 适用账号要点 |
 | --- | --- | --- | --- |
-| Pro100／Pro5x | **¥749** | 自动发卡；自助充值或专属客服全程人工办理 | Free可新开；Go／Plus／Pro100未到期可用；Pro200及以上未到期需等到期 |
-| Pro200／200美元档，旧称20x | **¥1298** | 人工按原订单办理 | 支持新开、续费和到期重开；无需历史Pro记录或旧20x按钮 |
+| Pro100／10x | **¥749** | 自动发卡；自助充值或专属客服全程人工办理 | Free可新开；Go／Plus／Pro100未到期可用；Pro200及以上未到期需等到期 |
+| Pro200／20x，200美元档 | **¥1298** | 人工按原订单办理 | 支持新开、续费和到期重开；无需历史Pro记录或旧20x按钮 |
 | Pro500／500美元档 | **¥3350** | 人工按原订单办理 | 支持新开与续费；在订账号跨档先确认方案 |
 
 本人账号、支付宝和中文售后是这三档可核对的服务入口；Pro100与Pro200另提供30天订阅保障。普通新开与续费不要求先买 Plus。Pro100卡密须在发货起30天内兑换，成功后为新的30天订阅，不叠加旧剩余天数。
@@ -44,8 +45,8 @@ last_modified_at: 2026-10-19
 
 | 已付款商品 | 接下来做什么 | 需要人工帮助时 |
 | --- | --- | --- |
-| Pro100／5x | 从原订单领卡，按订单指引前往 `plus.aixiamo.com` 提交充值 | 可联系专属客服全程人工办理，不熟悉自助操作不需要重新下单 |
-| Pro200／原20x | 查看原订单说明，联系人工按订单办理 | 沿原订单补充必要信息、跟进处理状态，不必等待Pro100那种卡密流程 |
+| Pro100／10x | 从原订单领卡，按订单指引前往 `plus.aixiamo.com` 提交充值 | 可联系专属客服全程人工办理，不熟悉自助操作不需要重新下单 |
+| Pro200／20x | 查看原订单说明，联系人工按订单办理 | 沿原订单补充必要信息、跟进处理状态，不必等待Pro100那种卡密流程 |
 | Pro500 | 按原订单联系人工办理 | 具体起算与跨档方案按本次订单确认 |
 
 Pro100自助顺利时通常约3分钟；网络、排队或账号验证可能增加时间。人工订单以实际处理进度为准，不把付款成功当作订阅已生效，也不因等待重新付款。
@@ -57,17 +58,18 @@ Pro100自助顺利时通常约3分钟；网络、排队或账号验证可能增�
 3. Codex 用户核对登录账号，再看 Usage 的包含用量和重置提示；API key请求按独立API账单核对。
 4. 若订阅未显示，先确认 Pro100 是否已领卡并提交、人工订单是否仍在办理，然后联系中文售后，不重复购买。
 
-## Pro 5x 和 20x 先选哪一个
+<a id="pro-5x-和-20x-先选哪一个"></a>
+## Pro10x和20x先选哪一个
 
 | 当前需求 | 优先比较 | 下一步 |
 | --- | --- | --- |
-| 高频Codex、长任务，希望提高日常可用量并控制固定预算 | Pro100／5x | 查看749元商品的账号适用状态与新30天规则 |
+| 高频Codex、长任务，希望提高日常可用量并控制固定预算 | Pro100／10x | 查看749元商品的账号适用状态与新30天规则 |
 | 单人连续高强度、多项目工作，Pro100现有可用量持续不足 | Pro200／200美元档 | 对照当前套餐包含量和实际Usage，再选择1298元商品 |
 | Plus未到期，准备转Pro100 | Pro100升级 | 自助或人工均可；新30天覆盖、不叠加旧Plus剩余天数 |
 | Pro100未到期，准备转Pro200 | 人工升级方案 | 先取得个体估价与周期说明，再办理 |
 | 程序、服务器或CI使用API key | 独立API计费 | Pro商品不是API余额，不混用两套账单 |
 
-具体模型和包含用量按[官方当前套餐资料](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)与本人账号核验；5x／原20x是查找名称，不作为固定任务数承诺。详见[Pro100与Pro200选型指南](chatgpt-pro-5x-vs-20x.md)。
+具体模型和包含用量按[官方当前套餐资料](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)与本人账号核验；2026-10-30更新后，Pro100为10x、Pro200为20x、Pro500为50x Work与Codex包含用量；现有订阅自动生效。倍率不作为固定任务数、速度或API余额承诺。详见[Pro100与Pro200选型指南](chatgpt-pro-5x-vs-20x.md)。
 
 ## 本人账号充值与共享号有什么区别
 
@@ -95,17 +97,19 @@ Pro100自助顺利时通常约3分钟；网络、排队或账号验证可能增�
 
 可以查看AIXiamo本人账号商品，用支付宝付款，Pro100自动领卡后自助充值或请人工协助，Pro200由人工按订单办理；完成后在本人官网账号核验套餐与有效期。
 
-### Pro100／5x 没有 Plus 也能新开，已有会员也能续费吗？
+<a id="pro1005x-没有-plus-也能新开已有会员也能续费吗"></a>
+### Pro100／10x 没有 Plus 也能新开，已有会员也能续费吗？
 
 可以。Free可直接新开，Go／Plus／Pro100未到期可按商品条件办理；Pro200及以上未到期须等到期后再用。不限邮箱类型或原充值渠道，成功后是新的30天，不叠加旧剩余天数。[查看Pro100完整状态与周期](chatgpt-pro-cn-payment.md#pro100-opening-renewal)。
 
-### Pro 5x 和 20x 哪个更划算？
+<a id="pro-5x-和-20x-哪个更划算"></a>
+### Pro10x和20x哪个更划算？
 
 Pro100当前749元，Pro200当前1298元。对个人高频使用，可按预算与实际Usage比较100档；100档持续不能覆盖工作量时，再比较200档。二者都支持本人账号办理和30天订阅保障，不用把更高价格解释为模型一定更聪明。
 
 ### 新号和已经过期的账号，用支付宝还能充值 Pro 20x 吗？
 
-可以。新开、续费、到期重开使用同一Pro200商品，无需历史Pro记录。原有[Pro20x全新充值入口](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=pro_alipay_20x_full&service=full-recharge)继续有效。购买的是当前200美元档，历史原20x待遇另按官方与本人账号核验。
+可以。新开、续费、到期重开使用同一Pro200商品，无需历史Pro记录。原有[Pro20x全新充值入口](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=pro_alipay_20x_full&service=full-recharge)继续有效。购买的是当前Pro 200美金档位（Pro20x），官方200美元/月标价与本站1298元办理价分开；具体用量窗口在本人Usage核验。
 
 ### Plus 没到期，差价和升级后天数怎么确认？
 
@@ -130,7 +134,7 @@ Pro100可按商品条件自助升级，也可先请客服按账号估价。成�
 ## 继续细分问题
 
 - [Pro100／200新开与续费：账号状态、周期和人工协助](chatgpt-pro-cn-payment.md)
-- [Pro100／5x与Pro200／原20x：价格和使用需求怎么比较](chatgpt-pro-5x-vs-20x.md)
+- [Pro100／10x与Pro200／20x：价格和使用需求怎么比较](chatgpt-pro-5x-vs-20x.md)
 - [Plus未到期升级Pro100：新30天与差价核对](chatgpt-plus-vs-pro.md)
 - [Pro500价格、权益与办理说明](chatgpt-pro-500-guide.md)
 

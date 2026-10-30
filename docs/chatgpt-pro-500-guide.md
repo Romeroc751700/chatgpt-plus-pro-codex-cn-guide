@@ -1,17 +1,18 @@
 ---
 layout: default
-title: "ChatGPT Pro 500美元档：价格、Astra Ultrafast、本人账号开通与续费指南"
-description: "保留 ChatGPT Pro $500 与 AIXiamo ¥3350 的历史价格快照、Astra Ultrafast资料和技术排查，说明当前本人账号办理、支付查单与官网验收应怎样核对。"
+title: "ChatGPT Pro500 50x：500美元档价格、Ultrafast与本人账号开通续费"
+description: "ChatGPT Pro500当前50x Work与Codex包含用量，保留$500/月与AIXiamo ¥3350价格记录，说明Ultrafast、本人账号新开续费、支付查单与官网验收。"
 lang: zh-CN
 date: 2026-10-03
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-30
 ---
 
-# ChatGPT Pro 500美元档：价格、Ultrafast与本人账号办理指南
+<a id="chatgpt-pro-500美元档价格ultrafast与本人账号办理指南"></a>
+# ChatGPT Pro500 50x：500美元档价格、Ultrafast与本人账号办理
 
-> 价格与套餐功能记录：2026-10-03；2026-10-16修订内链与说明。模型、速度和用量按当前官方资料与本人账号核对，本文的历史记录不替代当前商品条件。
+> 本次额度更新：2026-10-30。价格与套餐功能历史记录：2026-10-03；2026-10-16修订内链与说明。模型、速度和用量按当前官方资料与本人账号核对，本文的历史记录不替代当前商品条件。
 
-**Pro 500美元档是需要更高档位的个人用户可进一步比较的方案；普通购买可先看Pro100、Pro200。** 2026-10-03记录的官方列价为 **$500/月**，AIXiamo 独立500美元档商品价为 **¥3350**，支持新开通与续费，人工办理到您本人的官方 ChatGPT 账号。实时价格、可用模型与用量先看当前页面，完成后在自己的套餐与 Usage 页面核验。
+**Pro500当前为50x Work与Codex包含用量，适合需要更高持续用量的个人用户进一步比较；普通购买可先看Pro100／10x、Pro200／20x。** 2026-10-03记录的官方列价为 **$500/月**，AIXiamo 独立500美元档商品价为 **¥3350**，支持新开通与续费，人工办理到您本人的官方 ChatGPT 账号。实时价格、可用模型与用量先看当前页面，完成后在自己的套餐与 Usage 页面核验。
 
 [查看 Pro500 商品、实时人民币价格与库存](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=pro500_guide_primary)。已经有100/200美元档、准备切换到500档的用户，可先通过商品页客服确认当前订阅的处理方案，再下单。
 
@@ -37,7 +38,7 @@ last_modified_at: 2026-10-16
 | Astra Ultrafast | 选择本人账号显示的可用模型和速度 | 2026-10-03资料列有Codex／Work的Ultrafast；当前资格看官方资料与账号 |
 | AIXiamo办理入口 | [200美元档新开／续费](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=pro500_compare_200) | [500美元档新开／续费](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=pro500_compare_500) |
 
-比较实际工作时，把同一模型、任务范围、速度模式和完成质量放在一起看。旧“5x／20x”称呼可用于识别100/200美元档；当前三档的用量按官方规则核对。完整对照见 [100／200／500美元档选择指南](./chatgpt-pro-5x-vs-20x.md)。
+比较实际工作时，把同一模型、任务范围、速度模式和完成质量放在一起看。当前100／200／500美元档分别按10x／20x／50x的Work与Codex包含用量比较；此前5x／25x分别是100／500档更新前的名称。完整对照见 [100／200／500美元档选择指南](./chatgpt-pro-5x-vs-20x.md)。
 
 ## 3. Astra Ultrafast是什么？用起来真的更快吗？
 
@@ -58,7 +59,7 @@ last_modified_at: 2026-10-16
 
 ## 5. Pro500额度怎么看？Codex还会每五小时限制吗？
 
-**以本人Usage显示的包含用量、适用限制及重置时间为准，不用历史五小时估算判断当前额度。** 任务规模、上下文、推理、工具调用和所选速度都会影响消耗；查看当前入口的提示再安排工作。
+**2026-10-30核对：Pro500的Work与Codex包含用量由此前25x提高到50x，现有订阅自动生效，无需等续费。** 依据为[官方Pro档位更新](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)与[Tibo对500美元档50x的确认](https://x.com/thsottiaux/status/2115851811576053881)。Pro100／500的Chat中GPT-6 Pro每周消息限额未随本次翻倍；50x不是速度倍率、固定任务数或API余额。以本人Usage显示的包含用量、适用限制及重置时间核验，不用历史五小时估算判断当前额度。 任务规模、上下文、推理、工具调用和所选速度都会影响消耗；查看当前入口的提示再安排工作。
 
 Work与Codex是否共享某项额度、不同速度的消耗率、是否可购买额外Credits，按当前套餐、账号Usage和账单选项核对。不要把旧版共享规则或消耗顺序视为所有账号的统一保证。核对入口：[官方价格与用量说明](https://learn.chatgpt.com/docs/pricing)、[官方速度与用量说明](https://learn.chatgpt.com/docs/agent-configuration/speed)。
 
