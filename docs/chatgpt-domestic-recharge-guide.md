@@ -22,9 +22,9 @@ last_modified_at: 2026-10-30
 | --- | ---: | --- |
 | ChatGPT Plus | ¥148.8 | 日常聊天、写作、学习、办公与普通 Codex；付款后自动发充值卡密，客户按教程自助激活 |
 | ChatGPT Pro100（10x） | ¥749 | 高频Codex、深度研究与长任务；领取卡密后自助充值，或人工全程协助 |
-| ChatGPT Pro200（20x） | 新开／续订统一 ¥1298 | 200美元档新开、续费、到期重开，人工办理，无需历史Pro资格；当前Work与Codex包含用量为20x |
+| ChatGPT Pro200（20x） | 新开／续订统一 ¥1298 | 200美元档新开、续费、到期重开，人工办理，完成后核验套餐与Usage；当前Work与Codex包含用量为20x |
 
-**办理说明更新（2026-10-16）：** Pro100、Pro200均承接新开、续费和到期重开；普通新开不要求先购买Plus。已有Plus未到期可按条件办理Pro100；其卡密适用Free、在订Go／Plus／Pro100账号，在订Pro200及以上需等原订阅到期。Pro100成功兑换后为新30天，替换原剩余期限而非叠加，卡密自发货起30天内兑换。200美元档按订单人工办理，不要求历史Pro订阅资格；升级估价和剩余权益处理先按具体账号确认。 [查看当前Pro200开通与续费条件](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=broad_20x_conditions)。
+**办理说明更新（2026-10-16）：** Pro100、Pro200均承接新开、续费和到期重开；普通新开不要求先购买Plus。已有Plus未到期可按条件办理Pro100；其卡密适用Free、在订Go／Plus／Pro100账号，在订Pro200及以上需等原订阅到期。Pro100成功兑换后为新30天，替换原剩余期限而非叠加，卡密自发货起30天内兑换。200美元档按订单人工办理，按当前商品条件办理；升级估价和剩余权益处理先按具体账号确认。 [查看当前Pro200开通与续费条件](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=broad_20x_conditions)。
 
 - [立即查看 ChatGPT Plus 国内充值、库存与支付方式](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=broad_plus_early)
 - [查看当前可开通的 Pro 档位、续费条件与支付方式](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=broad_pro_early)

@@ -61,7 +61,7 @@ last_modified_at: 2026-10-30
 
 新用户或已到期用户可以直接查看 [Pro200 新开与续费商品](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=codex_20x_full&service=full-recharge)，按商品说明确认账号状态、金额和人工办理安排。曾在其他渠道开通的用户，仍需说明当前套餐与到期时间，让客服确认本次路径；旧付款渠道的自动续费由本人独立管理。
 
-办理的是当前200美元档，不以是否出现旧20x按钮推断本次交付，也不把旧账号的额度截图当作新账号额度保证。完成后核验同一账号的套餐、周期和 Usage。
+办理的是当前200美元档，Work与Codex的包含用量按20x说明，具体模型消耗与重置时间以本人Usage为准。完成后核验同一账号的套餐、周期和 Usage。
 
 ### Pro 续订后，Codex 已用额度会马上恢复吗？
 

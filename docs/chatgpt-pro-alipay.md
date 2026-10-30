@@ -20,7 +20,7 @@ last_modified_at: 2026-10-30
 | 要购买的档位 | 当前商品价 | 付款后的办理方式 | 适用账号要点 |
 | --- | --- | --- | --- |
 | Pro100／10x | **¥749** | 自动发卡；自助充值或专属客服全程人工办理 | Free可新开；Go／Plus／Pro100未到期可用；Pro200及以上未到期需等到期 |
-| Pro200／20x，200美元档 | **¥1298** | 人工按原订单办理 | 支持新开、续费和到期重开；无需历史Pro记录或旧20x按钮 |
+| Pro200／20x，200美元档 | **¥1298** | 人工按原订单办理 | 支持新开、续费和到期重开；完成后核验套餐、周期与Usage |
 | Pro500／500美元档 | **¥3350** | 人工按原订单办理 | 支持新开与续费；在订账号跨档先确认方案 |
 
 本人账号、支付宝和中文售后是这三档可核对的服务入口；Pro100与Pro200另提供30天订阅保障。普通新开与续费不要求先买 Plus。Pro100卡密须在发货起30天内兑换，成功后为新的30天订阅，不叠加旧剩余天数。
@@ -109,7 +109,7 @@ Pro100当前749元，Pro200当前1298元。对个人高频使用，可按预算�
 
 ### 新号和已经过期的账号，用支付宝还能充值 Pro 20x 吗？
 
-可以。新开、续费、到期重开使用同一Pro200商品，无需历史Pro记录。原有[Pro20x全新充值入口](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=pro_alipay_20x_full&service=full-recharge)继续有效。购买的是当前Pro 200美金档位（Pro20x），官方200美元/月标价与本站1298元办理价分开；具体用量窗口在本人Usage核验。
+可以。新开、续费、到期重开使用同一Pro200商品，完成后核验本人套餐、有效期与Usage。原有[Pro20x全新充值入口](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=pro_alipay_20x_full&service=full-recharge)继续有效。购买的是当前Pro 200美金档位（Pro20x），官方200美元/月标价与本站1298元办理价分开；具体用量窗口在本人Usage核验。
 
 ### Plus 没到期，差价和升级后天数怎么确认？
 

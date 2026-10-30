@@ -23,7 +23,7 @@ Pro100可自动领卡自助充值，也可由专属客服全程人工办理；Pr
 | 更值得比较的需求 | 个人高频Codex、长文档与研究，希望扩大日常可用量并控制预算 | 单人长时间连续工作、多项目并行，现有100档包含用量持续不足 |
 | 购买对象 | 本人ChatGPT账号订阅，不是共享号 | 本人ChatGPT账号订阅，不是共享号 |
 | 交付方式 | 自动发卡，自助充值或专属客服全程人工办理 | 人工按原订单办理 |
-| 普通新开与续费 | 均支持，不要求先有Plus | 均支持，含到期重开，不要求历史Pro资格 |
+| 普通新开与续费 | 均支持，不要求先有Plus | 均支持，含到期重开，按当前商品条件办理 |
 | 已有订阅如何处理 | 适用Free／Go／Plus／Pro100；Pro200及以上未到期需等到期 | 已有Plus／Pro100跨档先确认费用与周期；Pro200可按订单提前续费 |
 | 订阅保障 | 30天，范围按商品与原订单确认 | 30天，范围按商品与原订单确认 |
 | 最终用量依据 | 当前官方规则与本人Usage | 当前官方规则与本人Usage；较低额度已统一到原较高额度 |
@@ -57,7 +57,7 @@ Pro100可自动领卡自助充值，也可由专属客服全程人工办理；Pr
 <a id="pro200原20x新开续费和从100档升级"></a>
 ## Pro200／20x：新开、续费和从100档升级
 
-**Pro200支持新账号开通、正常续费和到期重开，使用同一1298元商品。** 无需历史Pro订阅、旧20x按钮或暂停销售时期的回归证明；原有[Pro20x全新充值入口](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=pro_compare_20x_full&service=full-recharge)继续有效。
+**Pro200支持新账号开通、正常续费和到期重开，使用同一1298元商品。** 完成后核验本人套餐、周期与Usage；原有[Pro20x全新充值入口](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=pro_compare_20x_full&service=full-recharge)继续有效。
 
 已有Plus或Pro100未到期，符合商品条件可由人工办理升级200档。升级后为新的30天Pro200，不叠加原剩余天数；本次差价、原权益处理和周期在付款前按本人账号确认。可联系专属客服QQ **928683877** 或[加入现有交流群](https://qm.qq.com/q/Bw0UoUeez0)取得方案。
 
@@ -80,7 +80,7 @@ Pro200未到期提前续费另按原订单确认起算时间，不把跨档升�
 <a id="老pro200续费会自动恢复历史原20x吗"></a>
 ### Pro200的20x更新，需要等续费吗？
 
-不需要。[官方当前说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)明确现有订阅自动获得更新：Pro100／500的Work与Codex额度翻倍，Pro200较低额度提高到原较高额度且原高额度保留。100／500的Chat中GPT-6 Pro每周消息限额未随本次翻倍，Plus也没有变化。[Pro200当前20x与此前名称的说明](chatgpt-pro-cn-payment.md#老-pro-200-用户现在续费还能保留原20x吗)保留独立核对入口。
+不需要。[官方当前说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)明确现有订阅自动获得更新：Pro100／500的Work与Codex额度翻倍，Pro200较低额度提高到原较高额度且原高额度保留。100／500的Chat中GPT-6 Pro每周消息限额未随本次翻倍，Plus也没有变化。[Pro200当前20x办理与用量核验说明](chatgpt-pro-cn-payment.md#老-pro-200-用户现在续费还能保留原20x吗)保留独立核对入口。
 
 ### 为什么同样是 Pro，有的人觉得够用，有的人很快触顶？
 
