@@ -1,4 +1,5 @@
 title: "ChatGPT Pro20x国内购买与续费：Pro 200美金档位与Pro100（10x）｜AIXiamo"
+root_search_title: "ChatGPT Pro20x（Pro200）与 Pro100 10倍额度（原5x）国内开通与续费｜AIXiamo"
 description: "ChatGPT Pro100（10x）和Pro200（20x）国内新开、续费与到期重开：AIXiamo 749元/1298元，本人账号、支付宝、自助或人工办理、30天订阅保障、升级周期及Codex与API区别。"
 lang: zh-CN
 locale: zh_CN
@@ -37,9 +38,10 @@ defaults:
   - scope:
       path: "README.md"
     values:
-      search_title: "ChatGPT Pro20x国内购买与续费：Pro 200美金档位与Pro100（10x）｜AIXiamo"
+      title: "ChatGPT Pro20x（Pro200）与 Pro100 10倍额度（原5x）国内开通与续费"
+      search_title: "ChatGPT Pro20x（Pro200）与 Pro100 10倍额度（原5x）国内开通与续费｜AIXiamo"
       date: "2026-10-16"
-      last_modified_at: 2026-10-23
+      last_modified_at: 2026-10-30
   - scope:
       path: "SOURCES.md"
     values:

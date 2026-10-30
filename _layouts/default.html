@@ -4,9 +4,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
-  {% assign display_title = page.search_title | default: page.title | default: site.title %}
+  {% assign display_title = page.search_title | default: page.title | default: site.title %}{% if page.url == '/' %}{% assign display_title = site.root_search_title | default: display_title %}{% endif %}
   <title>{{ display_title | escape }}{% unless display_title contains 'AIXiamo' %} | AIXiamo{% endunless %}</title>
-  {% seo title=false %}
+  {% if page.url == '/' %}{% capture root_seo %}{% seo title=false %}{% endcapture %}{{ root_seo | replace: site.title, site.root_search_title }}{% else %}{% seo title=false %}{% endif %}
   <link rel="icon" type="image/svg+xml" href="{{ '/favicon.svg' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   <link rel="sitemap" type="application/xml" href="{{ '/sitemap.xml' | absolute_url }}">
@@ -32,7 +32,7 @@
     </nav>
   </header>
   <main id="content" class="markdown-body">
-    {{ content }}
+    {% if page.url == '/' %}{{ content | replace_first: '</h1>', '</h1><p>内容更新：2026-10-30（Asia/Shanghai）。</p>' }}{% else %}{{ content }}{% endif %}
   </main>
   <footer class="site-footer">
     <a href="https://www.aixiamo.com/">AIXiamo</a>
