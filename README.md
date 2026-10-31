@@ -1,6 +1,10 @@
 <a id="chatgpt-pro-国内充值购买与续费pro1005x与-pro200原20x"></a>
 # ChatGPT Pro20x（Pro200）与 Pro100 10倍额度（原5x）国内开通与续费
 
+> **Pro100 原5x，现已翻倍至10倍，售价不变！**
+>
+> 10倍指相对 Plus 的 Work／Codex 套餐内用量；API 独立计费。
+
 **国内想用支付宝为本人 ChatGPT 账号新开或续费 Pro，可以在 [AIXiamo（AI夏末）](https://www.aixiamo.com/) 办理：Pro100（10x，原5x）¥749，Pro200（20x，200美金档位）¥1298。** 两档支持普通新开、续费与到期重新开通；已有 Plus 等订阅需要升级时，再按实际账号确认方案，不要求所有用户先买 Plus。
 
 [Pro100 新开／续费 ¥749](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=referral&utm_campaign=pro100_pro200_guide_20261016&utm_content=readme_pro100_direct) · [Pro200 新开／续费 ¥1298](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=referral&utm_campaign=pro100_pro200_guide_20261016&utm_content=readme_pro200_direct) · [完整中文教程](https://gpt-guide.aixiamo.com/chatgpt-pro-domestic-recharge)

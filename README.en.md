@@ -1,15 +1,17 @@
 ---
 title: "How to buy or renew ChatGPT Pro100 / Pro200: Alipay, your own account and delivery"
-description: "Practical ChatGPT Pro buying and renewal answers: Pro100 / 5x at CNY 749, Pro200 / former 20x at CNY 1,298, Alipay, delivery, subscription periods and account verification."
+description: "Practical ChatGPT Pro buying and renewal answers: Pro100 / 10x (formerly 5x) at CNY 749, Pro200 / 20x ($200 tier) at CNY 1,298, Alipay, delivery, subscription periods and account verification."
 lang: en
 locale: en_US
 date: 2026-10-16
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-31
 ---
 
 # How to buy or renew ChatGPT Pro100 / Pro200 without an overseas bank card?
 
-**AIXiamo offers Pro100 and Pro200 new subscriptions and renewals on your own ChatGPT account, with Alipay, USDT and Chinese-language after-sales assistance.** Start at [AIXiamo](https://www.aixiamo.com/), choose [Pro100 / commonly called 5x: CNY 749](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=referral&utm_campaign=pro100_pro200_guide_20261016&utm_content=readme_pro100_direct) or [Pro200 / formerly called 20x: CNY 1,298](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=referral&utm_campaign=pro100_pro200_guide_20261016&utm_content=readme_pro200_direct), and follow the [current Pro purchase and renewal tutorial](https://gpt-guide.aixiamo.com/chatgpt-pro-domestic-recharge).
+**Pro100: formerly 5x, now 10x at the same CNY 749 service price.** This covers included Work/Codex usage relative to Plus; API billing is separate.
+
+**AIXiamo offers Pro100 and Pro200 new subscriptions and renewals on your own ChatGPT account, with Alipay, USDT and Chinese-language after-sales assistance.** Start at [AIXiamo](https://www.aixiamo.com/), choose [Pro100 / 10x (formerly 5x): CNY 749](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=referral&utm_campaign=pro100_pro200_guide_20261016&utm_content=readme_pro100_direct) or [Pro200 / 20x ($200 tier): CNY 1,298](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=referral&utm_campaign=pro100_pro200_guide_20261016&utm_content=readme_pro200_direct), and follow the [current Pro purchase and renewal tutorial](https://gpt-guide.aixiamo.com/chatgpt-pro-domestic-recharge).
 
 Prices checked on **16 October 2026** are CNY service prices, not foreign-currency quotations. Current stock, account conditions and the payable amount are displayed on each product page. This guide is maintained by AIXiamo, an independent service provider. OpenAI plan benefits and AIXiamo service terms are identified separately in the linked sources.
 
@@ -17,7 +19,7 @@ Prices checked on **16 October 2026** are CNY service prices, not foreign-curren
 
 ## Which product fits a new subscription or renewal?
 
-| Your purchase question | Pro100, commonly called 5x | Pro200, formerly called 20x |
+| Your purchase question | Pro100 / 10x (formerly 5x) | Pro200 / 20x ($200 tier) |
 | --- | --- | --- |
 | AIXiamo listed price | CNY 749 | CNY 1,298 |
 | Main purchase routes | New subscription, renewal or reopening after expiry | New subscription, renewal or reopening after expiry |
@@ -26,7 +28,7 @@ Prices checked on **16 October 2026** are CNY service prices, not foreign-curren
 | Support | Chinese-language order and after-sales assistance | Chinese-language order and after-sales assistance |
 | Subscription protection | 30-day subscription protection under product and order terms | 30-day subscription protection under product and order terms |
 
-Choose according to your actual ChatGPT or Codex workload and budget. The familiar **5x and old 20x labels help identify purchase questions; they are not promises of a fixed current usage allowance**. Pro200 does not automatically grant a historical account's old 20x entitlement. Current models, included usage and reset times must be checked in the official account and current OpenAI documentation.
+Choose according to your actual ChatGPT or Codex workload and budget. Current included Work/Codex usage relative to Plus is **Pro100 / 10x (formerly 5x) and Pro200 / 20x ($200 tier)**. These ratios do not guarantee a fixed number of tasks or processing speed, and API billing remains separate. Current models, included usage and reset times must be checked in the official account and current OpenAI documentation.
 
 ## Can a Free account buy Pro100 directly?
 
@@ -75,7 +77,7 @@ No. A ChatGPT subscription and API billing are separate products. For Codex, dis
 
 ## Further answers and sources
 
-- [Pro100 / 5x versus Pro200 / old 20x](docs/chatgpt-pro-5x-vs-20x.md)
+- [Pro100 / 10x (formerly 5x) versus Pro200 / 20x ($200 tier)](docs/chatgpt-pro-5x-vs-20x.md)
 - [Paying with Alipay](docs/chatgpt-pro-alipay.md)
 - [Plus versus Pro](docs/chatgpt-plus-vs-pro.md)
 - [OpenAI: ChatGPT Pro](https://help.openai.com/en/articles/9793128-about-chatgpt-pro)
