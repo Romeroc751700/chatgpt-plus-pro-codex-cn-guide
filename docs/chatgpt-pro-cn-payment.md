@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Pro 20x 国内怎么开通？Pro 200 美金档位与100 / 500档付款指南"
 description: "ChatGPT Pro100/10x ¥749、Pro200/20x ¥1298，支持本人账号新开、续费与到期重开。按账号状态选择支付宝付款、自助或人工办理，说明升级差价、新30天、订单查询及订阅保障。"
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-04
 ---
 
 <a id="chatgpt-pro-国内怎么开通或购买没有海外银行卡怎么办"></a>
@@ -140,7 +140,7 @@ Pro100、Pro200 均提供 **30天订阅保障**，按对应商品与[公开售�
 1. 在[原订单](https://www.aixiamo.com/order-query?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=pro_domestic_order_help)查看付款、领卡或人工处理状态。
 2. 登录本次充值的同一个 ChatGPT 账号，在“设置 → 我的套餐”或当前套餐页面核对 Pro 档位和有效期。
 3. 使用 Codex 时，核对 Codex 登录的是这个账号，再查看 Usage 的包含用量、剩余额度与重置提示。
-4. 使用 API key 的程序另查 API 所属服务商账单；ChatGPT Pro 不包含 API 余额，不能用 API 余额验收会员。
+4. 使用 API key 的程序另查 API 所属服务商账单；AIXiamo 办理的是 ChatGPT 订阅，不是 API 项目充值，不能用 API 余额验收会员。符合官方条件的订阅可能申请独立 API 权益，资格、金额和期限以 OpenAI 官方入口与 API 账单为准；本站 Pro100／Pro200 的实际资格尚未核验，不作为交付承诺或购买卖点。
 5. 档位、有效期或订单异常时，保存错误提示，沿原订单联系中文售后，不需要重复付款。
 
 把观察结果按下表分别记录，能避免把“已付款”直接写成“订阅已生效”。这是一份核验方法，不是新订单的实际交付记录。
