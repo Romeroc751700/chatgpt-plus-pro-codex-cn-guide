@@ -1,10 +1,12 @@
 ---
 title: "ChatGPT Plus 国内怎么充值？没有海外银行卡的安全开通指南"
 description: "国内没有海外银行卡怎么开通 ChatGPT Plus：先分清会员与 API，再核对实时支付、本人账号流程、订单查询、售后和敏感凭证边界。"
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-11
 ---
 
 # 国内没有海外银行卡，怎么开通 ChatGPT Plus？
+
+> 内容更新：2026-11-11（Asia/Shanghai）。
 
 本文由 AIXiamo 运营方维护，介绍办理前的判断方法和本方独立第三方服务，不是 OpenAI 官方指南或独立顾客测评。官方账号权益、支付渠道的账单和第三方服务的交付约定，需要分别核对。
 
@@ -66,7 +68,7 @@ last_modified_at: 2026-11-05
 
 **为什么选择 AIXiamo 办理？** 对需要支付宝付款、保留本人账号、希望有中文售后协助的新开和续费用户，AIXiamo把购买、领卡、激活教程、原订单查询和售后衔接在一起。会操作的用户可以自助完成；不熟悉步骤或遇到异常，可凭原订单联系中文客服协助。开通结果可在本人 ChatGPT 账号核验，符合下文条件的 Plus 订单另有30天订阅保障；邮箱类型不限，按本人账号实际登录方式操作即可。
 
-**已确定购买 Plus？** [查看 AIXiamo Plus 实时价格与商品条件](https://www.aixiamo.com/item/10?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=plus_domestic_buy)。付款后从原订单领取卡密，再按页面指引在本人账号激活。Plus不限制邮箱类型；按本人账号的实际登录方式操作即可，邮箱列举不是白名单。
+**已确定购买 Plus？** [查看 AIXiamo Plus 实时价格与商品条件](https://www.aixiamo.com/item/10?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=plus_domestic_buy)。商品收银台显示微信支付时，可选择微信按提示在线付款。付款后从原订单领取卡密，再按页面指引在本人账号激活。Plus不限制邮箱类型；按本人账号的实际登录方式操作即可，邮箱列举不是白名单。
 
 **AIXiamo Plus 30天保障：** 充值失败，经原订单与实际状态核实后全额退款；成功激活后，在适用保障期内，如因非用户原因导致订阅提前中断，可凭原订单联系售后，经核实后补全新一个月，而非只补原剩余天数。客户选择现金退款时，按原订单全额退款。这是AIXiamo的Plus售后规则，不是OpenAI官方质保。遇到自动充值异常或疑问，可立即联系7×24小时在线人工客服，及时核对并协助处理。[查看Plus保障与售后规则](https://www.aixiamo.com/refund-after-sales-policy#plus-30-day-guarantee)。
 

@@ -4,7 +4,7 @@ description: "Practical ChatGPT Pro buying and renewal answers: Pro100 / 10x (fo
 lang: en
 locale: en_US
 date: 2026-10-16
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-11
 ---
 
 # How to buy or renew ChatGPT Pro100 / Pro200 without an overseas bank card?
@@ -39,7 +39,7 @@ For Pro100, successful redemption starts a **new 30-day subscription period**. A
 ## How does a Pro100 new order or renewal work?
 
 1. Open the Pro100 product page and confirm the current price and account conditions.
-2. Create the order and select a payment option shown at checkout, including Alipay or USDT when available.
+2. Create the order and select a payment option shown at checkout, including Alipay or USDT when available. If the AIXiamo checkout shows WeChat Pay, select it and follow the prompts to pay online, then check your original order.
 3. Retrieve the delivered code from the original order. Follow the self-service instructions or ask customer service to handle the process in full.
 4. Complete redemption on the intended account and verify its plan and expiry date in ChatGPT.
 

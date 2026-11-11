@@ -4,7 +4,7 @@ title: "ChatGPT Pro500 50x：500美元档价格、Ultrafast与本人账号开通
 description: "ChatGPT Pro500当前50x Work与Codex包含用量，保留$500/月与AIXiamo ¥3350价格记录，说明Ultrafast、本人账号新开续费、支付查单与官网验收。"
 lang: zh-CN
 date: 2026-10-03
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-11
 ---
 
 <a id="chatgpt-pro-500美元档价格ultrafast与本人账号办理指南"></a>
@@ -91,7 +91,7 @@ Work与Codex是否共享某项额度、不同速度的消耗率、是否可购�
 
 **Pro500由人工按订单办理，付款后可在订单查询页看处理进度。** 2026-10-03商品记录的通常处理时间约2–5分钟；本次订单的处理安排以当前商品和订单说明为准，高峰或账号核验需要更多时间时，可按原订单联系售后跟进。
 
-从 [Pro500商品18](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=pro500_payment)创建订单，按收银台当前提供的支付宝或USDT方式付款。使用USDT时，逐项核对**网络、该笔订单收款地址和精确金额**；每笔新订单都以自己的收银台为准。
+从 [Pro500商品18](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=pro500_payment)创建订单，按收银台当前提供的方式付款，例如支付宝或 USDT。该商品收银台显示微信支付时，可选择微信按提示在线付款。使用USDT时，逐项核对**网络、该笔订单收款地址和精确金额**；每笔新订单都以自己的收银台为准。
 
 付款后进入 [AIXiamo订单查询](https://www.aixiamo.com/order-query?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=pro500_order_query)，查看付款及人工处理状态。咨询售后时，带上订单号、付款时间和遇到的具体情况，从商品页当前客服入口联系；同一笔订单保留原付款和查单记录，方便核验。
 

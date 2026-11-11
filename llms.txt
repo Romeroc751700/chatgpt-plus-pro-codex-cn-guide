@@ -8,6 +8,8 @@ sitemap: false
 
 ## Core answers
 
+If an AIXiamo product checkout shows WeChat Pay, select it there and follow the prompts to pay online, then check the original AIXiamo order.
+
 - [Chinese guide]({{ '/' | absolute_url }}): New subscriptions and renewals first; prices and direct product links checked on 2026-10-16.
 - [Account status and renewal]({{ '/docs/chatgpt-pro-cn-payment.html' | absolute_url }}): Free, expired and active subscriptions; upgrade quotes and renewal periods.
 - [Alipay and delivery]({{ '/docs/chatgpt-pro-alipay.html' | absolute_url }}): Pro100 code and self-service or full manual help; Pro200 manual handling.
