@@ -1,12 +1,27 @@
 ---
 title: "GPT-6 Astra 怎么用？Codex CLI、Responses API 与权限排查"
 description: "保留 GPT-6 Astra 历史模型与版本记录，提供按当前账号核对Chat、Codex、API入口的方法、Responses API最小请求、权限额度排查和代码任务模板。"
-last_modified_at: 2026-10-16
+last_modified_at: 2026-11-18
 ---
 
 # GPT-6 Astra 怎么用？Codex CLI、Responses API 与模型不可见排查
 
 原 Astra 步骤记录于 2026-09-05；下述 Sol / Luna 补充记录于 2026-09-23（北京时间）。2026-10-16更新内链与可复用排查步骤，未将旧模型开放范围、版本号或参数重新核实为当前规则。本文由 AIXiamo 维护者整理，示例为可自行检查的技术用法，不表示已在读者账号上完成模型调用。
+
+## 2026-11 更新：GPT-6.2 Sol 与 Astra 怎么选？
+
+OpenAI 于 **2026-11-17** 发布 GPT-6.2 Sol 和 Astra，本节于 **2026-11-18** 核验。Plus 和 Pro 用户可在 Work 或 Codex 的模型选择器里核对开放情况。普通 Chat 的模型请在 Chat 内查看。下文9月的 CLI 版本和示例对应上一代模型。[OpenAI 发布说明](https://openai.com/index/introducing-gpt-6-2-astra-sol/) · [Work／Codex 官方帮助](https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex)
+
+| 任务 | 实践起点与验收 |
+| --- | --- |
+| 日常写作、范围明确的代码修改、脚本或测试 | 先用 Sol，提供输入、允许修改的范围和完成标准，检查实际输出与测试 |
+| 跨服务追踪、多文件复杂约束、专业文档交付 | 可选 Astra。仓库任务用 Codex，文档、表格或演示用 Work，核对引用、工具结果和导出文件 |
+
+以上是按官方定位整理的选择建议。比较两个模型时，使用同一任务与验收条件，同时记录完成质量、修订次数、耗时及 Usage。
+
+**Ultrafast 的套餐要求。** Pro200 可在 **Codex** 选择 GPT-6.2 Sol Ultrafast。Pro500 可在 **Work 和 Codex** 为 Sol 和 Astra 选择 Ultrafast。Plus 和 Pro100 可使用这两款模型的常规速度。10x、20x、50x 指套餐用量，实际消耗请看账号的 Usage。
+
+**在 Responses API 中选模型。** 运行下方示例前，将 `OPENAI_MODEL` 设为项目有权使用的 `gpt-6.2-sol` 或 `gpt-6.2-astra`。调用费用由 API 项目单独结算。当前模型与参数可从 [OpenAI API 模型目录](https://developers.openai.com/api/docs/models)核对。
 
 **先确定入口：**Chat、Work / Codex与API分别核对模型和访问权限；不能从其中一个入口的名称推断另一个入口已开放。2026-09记录将Chat中的GPT-6 Pro、Work / Codex的Astra与API模型ID `gpt-6-astra` 分别说明，具体当前名称、账号资格与开放范围请查看 [官方计划说明](https://help.openai.com/en/articles/20001354-gpt-56-and-gpt-6-pro-in-chatgpt)、[Work / Codex 说明](https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex)和本人模型选择器。API使用项目自己的账单，不由ChatGPT订阅支付。
 
