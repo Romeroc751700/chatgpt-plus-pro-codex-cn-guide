@@ -133,7 +133,7 @@ AIXiamo 将自动充值流程与专职人工协助结合：Plus、Pro100 按各�
 | [Codex 用量不足](docs/codex-quota-usage.md) | 实际 Usage、模型与任务规模排查 |
 | [团队账号规划](docs/enterprise-codex-account-planning.md) | 个人订阅与组织工作区如何分工 |
 | [Pro500 次级专题](docs/chatgpt-pro-500-guide.md) | 500美元档及专属能力另核，不混入100／200权益 |
-| [模型、CLI 与 API 排查](docs/gpt-6-astra-codex-api-guide.md) | 历史技术示例；新增 GPT-6.2 Sol／Astra 任务选择、Pro 各档 Ultrafast 与 API ID（2026-11-18核验） |
+| [GPT-6.2 Codex 的 Astra／Sol 选择与排查](docs/gpt-6-astra-codex-api-guide.md) | 具体代码任务、同提交的测试／质量／耗时／Usage 比较，保留 CLI 与 API 历史资料（2026-11-22更新） |
 | [只需要 Plus](docs/chatgpt-plus-cn-payment.md) | 无海外卡的新开与续费、本人账号激活 |
 | [Plus 支付宝](docs/chatgpt-plus-alipay.md) | Plus 付款与激活操作 |
 | [国内订阅总入口](docs/chatgpt-domestic-recharge-guide.md) | Plus、Pro 与 API 如何按用途找到对应答案 |
