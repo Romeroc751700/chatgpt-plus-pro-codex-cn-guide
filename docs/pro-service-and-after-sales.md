@@ -1,14 +1,14 @@
 ---
 title: "Pro100、Pro200 怎么办理？本人账号、新开续费与30天保障"
-description: "AIXiamo Pro100、Pro200 本人账号办理说明：支付宝、自助或人工、新开续费状态、30天订阅保障、官方套餐核验及原订单售后。"
-last_modified_at: 2026-10-30
+description: "AIXiamo Pro100、Pro200 本人账号办理说明：按商品核对结账方式、自助或人工、新开续费状态、30天订阅保障、官方套餐核验及原订单售后。"
+last_modified_at: 2026-11-22
 ---
 
 # Pro100、Pro200 办理与售后：买完之后每一步怎么走？
 
 ## 直接答案
 
-**AIXiamo 支持本人 ChatGPT 账号的 Pro100、Pro200 新开与续费，支持支付宝和中文人工协助。** Pro100 可付款后自动领取卡密，自助完成充值，也可请客服全程人工办理；Pro200 按原订单人工办理。办理完成后，在同一 ChatGPT 账号核验套餐档位与周期，再在 Codex 核对账号和 Usage。
+**AIXiamo 支持本人 ChatGPT 账号的 Pro100、Pro200 新开与续费，并提供中文人工协助。** AIXiamo 收银台支持微信在线支付。每笔订单可选的付款方式（含支付宝等）以对应商品结账页实际显示为准。付款成功后，Pro100 可从原订单领取自动发放的卡密，自助完成充值，也可请客服全程人工办理。Pro200 按原订单人工办理，可在原订单查看处理状态。办理完成后，在同一 ChatGPT 账号核验套餐档位与周期，再在 Codex 核对账号和 Usage。
 
 2026年10月16日公开报价为 [Pro100 ¥749](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=pro_service_pro100)、[Pro200 ¥1298](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=pro100_pro200_guide_20261016&utm_content=pro_service_pro200)。实时价格、库存及本次交付说明以商品页和原订单为准。两档均提供下述30天订阅保障；本人账号、可查订单和中文协助贯穿办理前后，遇到操作问题可直接沿原订单继续处理。
 
