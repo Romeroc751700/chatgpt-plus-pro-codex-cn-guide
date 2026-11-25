@@ -1,13 +1,13 @@
 ---
 title: "GPT-6.2 Codex 怎么选 Astra 和 Sol？任务对比、CLI 与 API 排查"
 description: "GPT-6.2 Codex 选型指南：用短代码修改、跨模块排查举例，按同一提交比较测试、代码质量、耗时与 Usage，补充 CLI 版本和模型入口，保留9月历史资料与独立 API 计费说明。"
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-24
 ---
 
 <a id="gpt-6-astra-怎么用codex-cliresponses-api-与模型不可见排查"></a>
 # GPT-6.2 Codex 中 Astra 和 Sol 怎么选？同任务比较与 CLI／API 排查
 
-> 内容更新于 2026-11-22（Asia/Shanghai）。
+> 内容更新于 2026-11-24（Asia/Shanghai）。
 
 **改一个表单校验、补一组边界测试，或写一个输入输出已明确的小脚本，可以先选 GPT-6.2 Sol。** 如果问题横跨登录接口、缓存与前端状态，或者一次修改要同时兼容多个模块并验证迁移，可以选 GPT-6.2 Astra。先把复现步骤、允许修改的范围和验收条件交给 Codex，再看实际代码与测试结果。
 
@@ -67,6 +67,8 @@ OpenAI 的 11 月 17 日更新把 Sol 定位于日常编码和多步骤工作，
 ## GPT-6.2 模型入口、CLI 与速度设置
 
 在 Work 的模型选择器或 Codex 的模型列表里选择当前可用的 GPT-6.2 Sol／Astra。CLI 先运行 `codex --version`。官方帮助当前列出的 GPT-6.2 要求为 **0.166.0 或更高版本**，升级方式按原安装渠道操作，随后核对登录的账号与工作区。普通 Chat、Work、Codex 分别查看自己的模型入口。[Work／Codex 官方帮助](https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex)
+
+OpenAI 自 11 月 23 日起向 Plus、Pro、Business 和 Enterprise 分批开放面向普通 Chat 的 GPT‑6.2 Sol 版本，Work 与 Codex 的模型选项在此次更新中保持原样。[ChatGPT 官方更新记录](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 
 Pro200 可在 Codex 使用 GPT-6.2 Sol Ultrafast；Pro500 可为 Sol 和 Astra 使用 Ultrafast。按账号当前显示的选项选择，做模型对比时固定同一速度，并记录对应 Usage。10x、20x、50x 继续按各套餐的包含用量说明核对。[GPT-6.2 发布说明](https://openai.com/index/introducing-gpt-6-2-astra-sol/) · [当前速度与用量要求](https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex)
 
