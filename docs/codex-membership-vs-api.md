@@ -32,6 +32,14 @@ last_modified_at: 2026-10-16
 
 个人用户看自己的 Usage；组织用户请有权限的管理员核对工作区 Billing、合同和用量控制。不要把组织管理员能看到的入口当作所有个人账号都有的入口。[官方定价说明](https://learn.chatgpt.com/docs/pricing)分别列出订阅、额外用量和 API 路径。
 
+## Pro 赠送的 API 额度怎么领、能用在哪？
+
+**怎么领。** OpenAI 官方 ChatGPT Pro 的 Pro100、Pro200、Pro500 三档都包含这项权益。符合条件的付费 Pro 订阅生效满 7 天后，用订阅的同一邮箱登录 ChatGPT 和 API Platform，在 [ChatGPT 设置 → 账单](https://chatgpt.com/settings/billing) 或 [API Platform 的组织账单](https://platform.openai.com/settings/organization/billing/overview) 找到 API 额度权益，选择本人拥有的 API 组织并确认关联。领取后到该组织的账单页看余额。首次发放按当前账期剩余时间折算。
+
+**能用在哪。** 额度归到关联的 API 组织，可以支付该组织符合条件的用量，例如用 Responses API 做网站客服、用 Images API 生图，或在 API Playground 试用已开通的模型。
+
+**为什么不能抵扣 Codex。** OpenAI 的赠额规则明确排除通过 API 密钥使用 Codex 的用量。用密钥登录 Codex 仍走 API 计费，用 ChatGPT 账号登录则按该账号的 Codex 用量规则计。两种用法都不会因为领取这笔赠额而获得额外 Codex 用量。[OpenAI 官方 API 额度说明](https://help.openai.com/en/articles/20001626-api-credits-benefit-for-eligible-chatgpt-subscriptions)。
+
 ## 什么时候优先看会员
 
 - 主要由本人在 ChatGPT 或 Codex 客户端中连续完成研究、文档或开发任务。
